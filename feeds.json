@@ -1,0 +1,103 @@
+{
+  "feeds": [
+    {
+      "name": "Business of Fashion",
+      "url": "https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml",
+      "region": "Global"
+    },
+    {
+      "name": "Vogue Business",
+      "url": "https://www.voguebusiness.com/feed/rss",
+      "region": "Global"
+    },
+    {
+      "name": "McKinsey & Company",
+      "url": "https://www.mckinsey.com/insights/rss",
+      "region": "Global"
+    },
+    {
+      "name": "Textile Exchange",
+      "url": "https://textileexchange.org/feed/",
+      "region": "Global"
+    },
+    {
+      "name": "WWD",
+      "url": "https://wwd.com/feed/",
+      "region": "Global"
+    },
+    {
+      "name": "Just Style",
+      "url": "https://www.just-style.com/feed/",
+      "region": "Global"
+    },
+    {
+      "name": "FashionUnited (Global)",
+      "url": "https://fashionunited.com/rss/news",
+      "region": "Global"
+    },
+    {
+      "name": "FashionNetwork",
+      "url": "https://ww.fashionnetwork.com/rss/business.xml",
+      "region": "Global"
+    },
+    {
+      "name": "ET Retail — Apparel & Fashion",
+      "url": "https://retail.economictimes.indiatimes.com/rss/apparel-fashion",
+      "region": "India"
+    },
+    {
+      "name": "FashionUnited India",
+      "url": "https://fashionunited.in/rss/news",
+      "region": "India"
+    },
+    {
+      "name": "Fibre2Fashion",
+      "url": "https://www.fibre2fashion.com/news/rss/apparel-news.xml",
+      "region": "India"
+    },
+    {
+      "name": "Apparel Resources India",
+      "url": "https://apparelresources.com/feed/",
+      "region": "India"
+    },
+    {
+      "name": "FashionUnited UK",
+      "url": "https://fashionunited.uk/rss/news",
+      "region": "Europe"
+    },
+    {
+      "name": "FashionUnited Germany",
+      "url": "https://fashionunited.de/rss/news",
+      "region": "Europe"
+    },
+    {
+      "name": "FashionNetwork Europe",
+      "url": "https://uk.fashionnetwork.com/rss/business.xml",
+      "region": "Europe"
+    },
+    {
+      "name": "Drapers",
+      "url": "https://www.drapersonline.com/feed",
+      "region": "Europe"
+    }
+  ],
+  "reference_links": [
+    {
+      "name": "Statista — Apparel Market",
+      "url": "https://www.statista.com/markets/415/topic/466/apparel-shoes/",
+      "note": "Paywalled, no public RSS — bookmark for market-size data"
+    },
+    {
+      "name": "Euromonitor — Fashion",
+      "url": "https://www.euromonitor.com/insights/fashion",
+      "note": "Paywalled, no public RSS — bookmark for category reports"
+    },
+    {
+      "name": "McKinsey State of Fashion",
+      "url": "https://www.mckinsey.com/industries/retail/our-insights/state-of-fashion",
+      "note": "Annual flagship report"
+    }
+  ],
+  "max_items_per_feed": 15,
+  "max_age_days": 7
+}
