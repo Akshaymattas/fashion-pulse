@@ -1,6 +1,6 @@
 {
- "updated_at": "25 Jul 2026, 01:02 PM IST",
- "updated_at_iso": "2026-07-25T07:32:46.477318+00:00",
+ "updated_at": "26 Jul 2026, 01:25 PM IST",
+ "updated_at_iso": "2026-07-26T07:55:13.362452+00:00",
  "count": 71,
  "reference_links": [
   {
@@ -20,6 +20,36 @@
   }
  ],
  "items": [
+  {
+   "title": "New Balance Revealed a New Cameron Brink Collection During WNBA All-Star Weekend and It’s Coming Out Soon",
+   "link": "https://wwd.com/footwear-news/sneaker-news/new-balance-cameron-brink-malibu-melt-pe-pack-1239082611/",
+   "summary": "Featuring the 740 lifestyle shoe and the P400 Low basketball sneaker.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-07-25T17:24:53+00:00"
+  },
+  {
+   "title": "Kobe Bryant’s New WNBA All-Star Nikes Are Out Now, but Sizes Are Already Selling Out",
+   "link": "https://wwd.com/footwear-news/sneaker-news/nike-kobe-3-low-protro-wnba-all-star-available-iq3917-100-1239082578/",
+   "summary": "Details on the Nike Kobe 3 Low Protro for WNBA All-Star Weekend.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-07-25T15:32:03+00:00"
+  },
+  {
+   "title": "Dior Brings the Tuileries to China With Multi-city Pop-ups",
+   "link": "https://wwd.com/business-news/retail/dior-tuileries-china-multi-city-pop-ups-1239082540/",
+   "summary": "Dubbed “Parisian Gardens,” the pop-up appeared in several locations at once — the Southern District of Beijing's Sanlitun, the East Plaza of Shenzhen Bay’s MixC shopping mall, as well as MixC malls in Xiamen and Shenyang.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-07-25T02:49:32+00:00"
+  },
   {
    "title": "Loose Threads: Paige Launches Handbags, Wrangler Plans Texas Flagship and More",
    "link": "https://wwd.com/sourcing-journal/sj-denim/loose-threads-paige-launches-handbags-wrangler-pacsun-1239080298/",
@@ -91,36 +121,6 @@
     "Global"
    ],
    "published": "2026-07-24T21:32:15+00:00"
-  },
-  {
-   "title": "The Short and Long of the Latest in Summer Dressing Out of Tokyo",
-   "link": "https://wwd.com/fashion-news/fashion-trends/tokyo-office-shorts-trend-summer-fashion-1239081353/",
-   "summary": "New Japanese government regulations allowing shorts at work in the summer heat are stirring debate — and perhaps a trend — worldwide.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-07-24T21:29:28+00:00"
-  },
-  {
-   "title": "From the Archive: The Polka Dot Bikini Endures, From Gottex to Moschino",
-   "link": "https://wwd.com/fashion-news/fashion-features/archive-polka-dot-bikini-gottex-moschino-1239082035/",
-   "summary": "The polka dot, fashion's perennial summer print, has endured through decades of summer fun.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-07-24T21:27:11+00:00"
-  },
-  {
-   "title": "Gemma Chan Is Having Her Moment With Peacock’s Biggest Hit and Award Season Buzz",
-   "link": "https://wwd.com/eye/people/gemma-chan-five-star-weekend-josephine-1239080727/",
-   "summary": "The actress opens up about playing the complicated Gigi in Peacock’s breakout drama, why “Josephine” was worth the long wait and what she’s hoping to do next.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-07-24T20:15:52+00:00"
   },
   {
    "title": "Andy Burnham kickstarts his ‘circuit breaker for Britain’",
@@ -529,9 +529,9 @@
    "published": "2026-07-23T00:00:00+00:00"
   },
   {
-   "title": "The global balance sheet 2026: Imbalance and divergence",
-   "link": "https://www.mckinsey.com/mgi/our-research/the-global-balance-sheet-2026-imbalance-and-divergence",
-   "summary": "",
+   "title": "How Montefiore Einstein turned technology into enterprise value",
+   "link": "https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value",
+   "summary": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By strengthening digital tools, modernizing systems, and embedding AI across workflows, Montefiore Einstein is building a stronge…",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -539,9 +539,9 @@
    "published": "2026-07-23T00:00:00+00:00"
   },
   {
-   "title": "How Montefiore Einstein turned technology into enterprise value",
-   "link": "https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value",
-   "summary": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By strengthening digital tools, modernizing systems, and embedding AI across workflows, Montefiore Einstein is building a stronge…",
+   "title": "The global balance sheet 2026: Imbalance and divergence",
+   "link": "https://www.mckinsey.com/mgi/our-research/the-global-balance-sheet-2026-imbalance-and-divergence",
+   "summary": "",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -731,9 +731,9 @@
    "published": "2026-07-20T00:00:00+00:00"
   },
   {
-   "title": "The cost of intelligence: How CIOs can manage AI demand at scale",
-   "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-cost-of-intelligence-how-cios-can-manage-ai-demand-at-scale",
-   "summary": "As AI costs spiral, CIOs need to manage enterprise AI demand to optimize for outcomes, not just cost.",
+   "title": "From instinct to real-time insight: Transforming steel sales with AI",
+   "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/overview/from-instinct-to-real-time-insight-transforming-steel-sales-with-ai",
+   "summary": "ArcelorMittal Brazil partnered with McKinsey to redesign its sales journey. A gen AI–powered tool removed the friction of everyday selling, freeing salespeople to focus on what mattered most: creating value for customers.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
