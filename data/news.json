@@ -1,6 +1,6 @@
 {
- "updated_at": "14 Aug 2026, 12:24 PM IST",
- "updated_at_iso": "2026-08-14T06:54:07.576364+00:00",
+ "updated_at": "15 Aug 2026, 11:21 AM IST",
+ "updated_at_iso": "2026-08-15T05:51:09.241956+00:00",
  "count": 74,
  "reference_links": [
   {
@@ -21,144 +21,308 @@
  ],
  "items": [
   {
-   "title": "Boux Avenue continues store upgrade initiative",
-   "link": "https://www.drapersonline.com/news/boux-avenue-continues-store-upgrade-initiative",
-   "summary": "Drapers Boux Avenue continues store upgrade initiative Boux Avenue is refurbishing its Guildford and Belfast stores as part of its new retail concept rollout. The post Boux Avenue continues store upgrade initiative appeared first on Drapers .",
+   "title": "With 100% Tariffs Looming, Indian Suppliers Lay Plans to Pivot Away from the US Market",
+   "link": "https://wwd.com/sourcing-journal/trade/100-percent-russia-tariffs-india-suppliers-trade-sourcing-at-magic-1239125827/",
+   "summary": "Trade negotiations between the United States and India have been fraught with tension bordering on passive aggression over the past year.",
+   "source": "WWD",
+   "regions": [
+    "Global",
+    "India"
+   ],
+   "published": "2026-08-14T23:46:34+00:00"
+  },
+  {
+   "title": "Asia-US East Coast Freight Rates Hit 2026 Peak. Can the Rally Continue?",
+   "link": "https://wwd.com/sourcing-journal/logistics/asia-us-east-coast-freight-rates-hit-2026-high-panama-canal-surcharges-1239125730/",
+   "summary": "A resilient container market has challenged expectations of a late-summer slowdown and Panama Canal costs could keep the peak going.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-14T22:07:55+00:00"
+  },
+  {
+   "title": "Clarity Systems Secures $4.4 Million",
+   "link": "https://wwd.com/sourcing-journal/industry-news/clarity-systems-retail-fraud-seed-funding-1239125656/",
+   "summary": "The company's technology is meant to help address the perennial issue of retail fraud.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-14T21:58:04+00:00"
+  },
+  {
+   "title": "Daniela Avanzini Takes Chartreuse Thigh-high Boots for a Ride in Katseye’s ‘Hootie Frutti’ Video",
+   "link": "https://wwd.com/footwear-news/shoe-trends/katseye-daniela-avanzini-thigh-high-boots-hootie-frutti-1239125731/",
+   "summary": "Katie Qian styled Avanzini in Thom Solo’s sharply pointed satin Supreme pair, a two-tone cutout bodysuit and bright blue briefs.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-14T21:39:22+00:00"
+  },
+  {
+   "title": "CircKit Brings AI-Powered Circular Design to Fashion Schools",
+   "link": "https://wwd.com/sourcing-journal/industry-news/circkit-ai-powered-circular-design-to-fashion-schools-1239125698/",
+   "summary": "DeMontfort University in Leicester is the first school to adopt the technology.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-14T21:33:11+00:00"
+  },
+  {
+   "title": "Katseye Brings Back the Style Coordination of Y2K Girl Groups in Cohesive Footwear on ‘Today’",
+   "link": "https://wwd.com/footwear-news/shoe-trends/katseye-channels-y2k-girl-groups-cohesive-footwear-today-1239125304/",
+   "summary": "They wore strappy sandals to perform on the morning show.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-14T21:00:26+00:00"
+  },
+  {
+   "title": "Brooks, Hoka and Saucony Have Big Plans to Conquer the European Running Market",
+   "link": "https://wwd.com/footwear-news/shoe-industry-news/hoka-brooks-saucony-expansion-european-market-growth-1239124385/",
+   "summary": "Hoka, Brooks Running and Saucony see expansion plans across the European market as a key component of future growth.",
+   "source": "WWD",
+   "regions": [
+    "Europe",
+    "Global"
+   ],
+   "published": "2026-08-14T20:54:53+00:00"
+  },
+  {
+   "title": "An AI Bama Rush Hopeful Is Going Viral in ‘Nike’ Sneakers That Technically Don’t Exist",
+   "link": "https://wwd.com/footwear-news/shoe-features/ai-bama-rushtok-nike-sneakers-1239125514/",
+   "summary": "“Janie B” named Nike in her first OOTD, but the shoes, along with the rest of her look, seem to be AI. Meanwhile, Nike staged a very real Studio Fleece activation at a University of Alabama sorority house.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-14T20:53:37+00:00"
+  },
+  {
+   "title": "Kehlani Dances in Nike’s Coolest and Sleekest Slim Sneaker Onstage in Michigan",
+   "link": "https://wwd.com/footwear-news/shoe-trends/kehlani-nike-shox-z-tour-michigan-1239125554/",
+   "summary": "The sneakers are currently on sale.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-14T20:18:05+00:00"
+  },
+  {
+   "title": "Indochino to Add 10 Showrooms in U.S. in 2027",
+   "link": "https://wwd.com/fashion-news/fashion-scoops/indochino-10-showrooms-2027-drew-green-1239125430/",
+   "summary": "The Canadian made-to-measure retailer currently operates around 70 retail spaces in North America.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-14T20:16:55+00:00"
+  },
+  {
+   "title": "John Lewis and Mountain Warehouse bosses: this week’s fashion retail people moves",
+   "link": "https://www.drapersonline.com/news/this-weeks-fashion-retail-people-moves-harrods-ms-jdsports-temperleylondon",
+   "summary": "Drapers John Lewis and Mountain Warehouse bosses: this week’s fashion retail people moves All the latest fashion retail people moves brought to you by the most trusted source – Drapers, the \"bible of the fashion industry\" since 1887. The post John Lewis and Mountain Warehouse bo…",
    "source": "Drapers",
    "regions": [
     "Europe"
    ],
-   "published": "2026-08-14T06:00:00+00:00"
+   "published": "2026-08-14T14:52:54+00:00"
   },
   {
-   "title": "Lessons From Ralph Lauren and Coach: How to Get a Fashion Brand Back on the Growth Track",
-   "link": "https://wwd.com/business-news/business-features/turn-around-in-fashion-lessons-from-ralph-coach-1239100178/",
-   "summary": "Ralph Lauren and Coach have done it, but plenty of others are still trying and trying.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-14T04:01:00+00:00"
-  },
-  {
-   "title": "LoveShackFancy, Fanatics Team on Limited-edition College Collection",
-   "link": "https://wwd.com/fashion-news/fashion-scoops/loveshackfancy-fanatics-limited-edition-college-collection-1239106110/",
-   "summary": "The collection runs the gamut from cozy sweatshirts, feminine tops and coordinating pants to signature ruffle skirts, hats, and tote bags.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-14T04:01:00+00:00"
-  },
-  {
-   "title": "EXCLUSIVE: Evan Mock Teams Up With Orb to Drop Limited-edition Unisex Fragrance Oil",
-   "link": "https://wwd.com/pop-culture/new-fashion-releases/evan-mock-orb-oils-wahine-fragrance-launch-1239105232/",
-   "summary": "Inspired by the North Shore in O'ahu, Hawaii, the scent leans on the aesthetic of the actor's lifestyle label Wahine.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-14T04:00:00+00:00"
-  },
-  {
-   "title": "Anthropologie’s Beauty Advent Calendar Is Back — With Over $200 in Savings on Brands Like Caudalie, L’Occitane, and Mario Badescu",
-   "link": "https://wwd.com/shop/shop-beauty/anthropologie-beauty-advent-calendar-2026-brands-buy-online-1239124376/",
-   "summary": "If the last few years are any indication, you'd be wise to shop the limited-edition sets well before the start of December.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-14T02:00:36+00:00"
-  },
-  {
-   "title": "CBP Seizes 440 Pounds of Unprocessed Cotton at Virginia’s Dulles Airport",
-   "link": "https://wwd.com/sourcing-journal/industry-news/cbp-seizure-unprocessed-cotton-dulles-airport-invasive-species-1239124351/",
-   "summary": "The cotton was seized from passenger baggage arriving in the country from Afghanistan.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-13T23:20:36+00:00"
-  },
-  {
-   "title": "Amazon Workers Rally at NYC City Hall as Delivery Bill Gains Momentum",
-   "link": "https://wwd.com/sourcing-journal/logistics/amazon-workers-teamsters-rally-picket-nyc-delivery-protection-act-dsp-mamdani-1239123920/",
-   "summary": "The Delivery Protection Act has backing from a City Council supermajority and Mayor Zohran Mamdani, but Amazon has spent more than $5 million opposing the legislation.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-13T21:26:16+00:00"
-  },
-  {
-   "title": "This Season’s Hottest Item Is a Shirt Dress: Here Are 7 Styles to Shop",
-   "link": "https://wwd.com/shop/shop-fashion/best-shirt-dresses-1235200908/",
-   "summary": "Famously endorsed by starlets from Anne Hathaway to Kendall Jenner, the versatile shirt dress is here to stay (long after summer comes to a close).",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-13T21:17:45+00:00"
-  },
-  {
-   "title": "Katseye Goes Wild in Fall’s Animal Print Trend on ‘Fallon’ Ahead of New Album Release",
-   "link": "https://wwd.com/footwear-news/shoe-trends/katseye-2026-animal-print-shoe-trend-wild-fallon-1239123400/",
-   "summary": "Megan Skiendiel, Daniela Avanzini, Lara Raj and Yoonchae put their own spin on the fall trend to promote their upcoming album, “Wild.”",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-13T21:04:35+00:00"
-  },
-  {
-   "title": "After Its Popular Repetto Collab, Birkenstock Is Going Bigger With Ballet Fashion",
-   "link": "https://wwd.com/footwear-news/shoe-industry-news/birkenstock-ceo-oliver-reichert-ballerina-trend-mary-jane-1239123860/",
-   "summary": "Birkenstock CEO Oliver Reichert said ballerina is the trend for the next three to five years, as ballet flats led to demand for the mary jane style.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-13T20:59:21+00:00"
-  },
-  {
-   "title": "Colombian Suppliers Face Earthquake Impacts, Tariff Woes",
-   "link": "https://wwd.com/sourcing-journal/trade/sourcing-at-magic-colombia-suppliers-earthquake-impacts-tariffs-1239124116/",
-   "summary": "Shaken by the news, many Colombian exhibitors appeared to be monitoring the situation, with concerns about family, friends and employees clearly top of mind.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-13T20:56:07+00:00"
-  },
-  {
-   "title": "What’s next for Harvey Nichols under new owner Frasers Group?",
-   "link": "https://www.drapersonline.com/news/whats-next-for-harvey-nichols-under-new-owner-frasers-group",
-   "summary": "Drapers What’s next for Harvey Nichols under new owner Frasers Group? Following Frasers' acquisition of Harvey Nichols in a pre-pack administration deal on Thursday 13 August, fashion retail experts weigh in on the future of the department store under its new ownership. The post…",
+   "title": "Harvey Nichols Dublin store enters liquidation following Frasers acquisition",
+   "link": "https://www.drapersonline.com/news/harvey-nichols-dublin-store-enters-liquidation-following-frasers-acquisition",
+   "summary": "Drapers Harvey Nichols Dublin store enters liquidation following Frasers acquisition Harvey Nichols' Dublin branch has entered liquidation following Frasers Group's pre-pack acquisition of the luxury department store yesterday (13 August). The post Harvey Nichols Dublin store en…",
    "source": "Drapers",
    "regions": [
     "Europe"
    ],
-   "published": "2026-08-13T16:46:48+00:00"
+   "published": "2026-08-14T14:52:12+00:00"
   },
   {
-   "title": "Inside the real lives of fashion retail designers",
-   "link": "https://www.drapersonline.com/insight/analysis/inside-the-real-lives-of-fashion-retail-designers",
-   "summary": "Drapers Inside the real lives of fashion retail designers Drapers hears first hand from fashion retail designers about workload, salaries, creativity and the real impact of artificial intelligence in the industry today. The post Inside the real lives of fashion retail designers …",
+   "title": "Phoenix Kothari Plans Rs 1,000-Cr Footwear Plant in Tamil Nadu",
+   "link": "https://apparelresources.com/business-news/manufacturing/phoenix-kothari-plans-rs-1000-cr-footwear-plant-tamil-nadu/",
+   "summary": "Kothari Industrial Corporation Ltd, through its associate company Phoenix Kothari Footwear Ltd, has proposed an investment of approximately Rs 1,000 crore (US $104.79 million) to establish a non-leather footwear manufacturing facility in Mananthapuram District, Tamil Nadu. The c…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-14T13:36:48+00:00"
+  },
+  {
+   "title": "Asos relaunches magazine on Substack",
+   "link": "https://www.drapersonline.com/news/asos-relaunches-magazine-on-substack",
+   "summary": "Drapers Asos relaunches magazine on Substack Asos's new autumn/winter 26 campaign relaunches its in-house magazine. The post Asos relaunches magazine on Substack appeared first on Drapers .",
    "source": "Drapers",
    "regions": [
     "Europe"
    ],
-   "published": "2026-08-13T15:00:46+00:00"
+   "published": "2026-08-14T13:33:29+00:00"
   },
   {
-   "title": "Levi’s launches online at Marks & Spencer",
-   "link": "https://www.drapersonline.com/news/levis-launches-online-at-marks-spencer",
-   "summary": "Drapers Levi’s launches online at Marks & Spencer Two giants come together as denim specialist Levi’s will now be stocked at Marks & Spencer. The post Levi’s launches online at Marks & Spencer appeared first on Drapers .",
+   "title": "Leather Gets Lighter: A/W 2026’s Softer Take on a Heritage Material",
+   "link": "https://apparelresources.com/fashion-news/trends/leather-gets-lighter-w-2026s-softer-take-heritage-material/",
+   "summary": "Leather took a softer, more fluid direction on the A/W 2026 runways, with several major houses using supple tannages and lighter construction techniques to give the material the drape and ease typically associated with cotton or silk, moving away from its traditionally structure…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-14T13:03:53+00:00"
+  },
+  {
+   "title": "Ted Baker launches new menswear collection for US retailer Macy’s",
+   "link": "https://www.drapersonline.com/companies/directory/ted-baker/ted-baker-launches-new-menswear-collection-for-us-retailer-macys",
+   "summary": "Drapers Ted Baker launches new menswear collection for US retailer Macy’s Ted Baker is launching a new menswear collection for US retailer Macy's. The post Ted Baker launches new menswear collection for US retailer Macy’s appeared first on Drapers .",
    "source": "Drapers",
    "regions": [
     "Europe"
    ],
-   "published": "2026-08-13T13:36:24+00:00"
+   "published": "2026-08-14T13:00:27+00:00"
+  },
+  {
+   "title": "Repair Services Emerge as Brand Engagement Tool for Gen Z Shoppers",
+   "link": "https://apparelresources.com/fashion-news/trends/repair-services-emerge-brand-engagement-tool-gen-z-shoppers/",
+   "summary": "Global apparel brands are repositioning garment repair as a customer engagement and loyalty strategy rather than a peripheral after-sales service, as younger consumers gravitate toward resale, thrift and sustainability-led shopping habits. Levi Strauss & Co., Uniqlo, Zara and Pr…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "Europe",
+    "India"
+   ],
+   "published": "2026-08-14T12:47:54+00:00"
+  },
+  {
+   "title": "Arvind Ltd Denim Volumes Reach 16-Quarter High",
+   "link": "https://apparelresources.com/business-news/manufacturing/arvind-ltd-denim-volumes-reach-16-quarter-high/",
+   "summary": "Gujarat-based textile major Arvind Ltd is exploring leased and other asset-light manufacturing options to expand denim capacity as strong demand pushes its denim fabric volumes to a 16-quarter high. Arvind’s denim fabric volumes increased 34% year-on-year to 17.5 million metres …",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-14T12:34:47+00:00"
+  },
+  {
+   "title": "Page Industries Q1 Revenue Rises 7.9% to Rs 1,420 Crore",
+   "link": "https://apparelresources.com/business-news/manufacturing/page-industries-q1-revenue-rises-7-9-rs-1420-crore/",
+   "summary": "Page Industries Ltd, a manufacturer and retailer of innerwear, reported a 7.9% year-on-year increase in revenue from operations to Rs 1,420.44 crore(US $148.88 million) in the first quarter of FY27, driven by growth in apparel sales volumes and steady consumer demand. The innerw…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-14T12:04:13+00:00"
+  },
+  {
+   "title": "River Island design chief’s plans for the next ‘dopamine hit’",
+   "link": "https://www.drapersonline.com/people/my-fashion-life/river-island-design-chief-on-creating-the-next-dopamine-hit",
+   "summary": "Drapers River Island design chief’s plans for the next ‘dopamine hit’ Amid River Island's turnaround plan and return to profit, design director Emma Rossi shares the inspirations behind her eclectic personal style, and why delivering feel-good fashion that offers value for money…",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-14T12:00:00+00:00"
+  },
+  {
+   "title": "Sanrhea Technical Textiles Q1 Revenue Rises 59.6% to Rs 28.34 Crore",
+   "link": "https://apparelresources.com/business-news/manufacturing/sanrhea-technical-textiles-q1-revenue-rises-59-6-rs-28-34-crore/",
+   "summary": "Sanrhea Technical Textiles Ltd Gujarat based Industrial Fabric manufacture, reported a 59.6% year-on-year increase in revenue from operations to Rs 28.34 crore (US $2.97 million) in the first quarter of FY2027 ended June 30, compared with Rs 17.76 crore (US $1.86 million) in the…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-14T11:54:39+00:00"
+  },
+  {
+   "title": "Editor’s comment: What’s next for Harvey Nics under Frasers?",
+   "link": "https://www.drapersonline.com/insight/comment/editors-comment-whats-next-for-harvey-nics-under-frasers",
+   "summary": "Drapers Editor’s comment: What’s next for Harvey Nics under Frasers? After weeks of negotiations, retail tycoon Mike Ashely has snapped up Harvey Nichols, but the struggling department store chain is not out of the woods yet, writes Drapers editor Jill Geoghegan. The post Editor…",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-14T11:01:39+00:00"
+  },
+  {
+   "title": "Wolverine Worldwide raises 2026 outlook as Q2 beats expectations",
+   "link": "https://www.just-style.com/news/wolverine-worldwide-q2-2026/",
+   "summary": "Wolverine Worldwide has lifted its FY26 outlook after a stronger-than-expected Q2, with Merrell and Saucony driving sales gains.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-14T10:28:37+00:00"
+  },
+  {
+   "title": "Digitalisation, AI and sustainability take Focus at IFCO Istanbul 2026",
+   "link": "https://www.just-style.com/news/ifco-2026-istanbul-ai/",
+   "summary": "Digital transformation, AI, and sustainable manufacturing will lead the agenda at the 10th edition of IFCO from 19 to 21 August 2026.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-14T09:35:46+00:00"
+  },
+  {
+   "title": "Whering CEO on why Google AI, eBay are betting on digital wardrobes",
+   "link": "https://www.just-style.com/interviews/whering-ceo-on-why-google-ai-ebay-are-betting-on-digital-wardrobes/",
+   "summary": "Whering CEO & Founder Bianca Rangecroft opens up to Just Style about what a $7m seed funding from the Google AI Futures Fund and eBay Ventures will enable for the digital wardrobe platform.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-14T08:37:37+00:00"
+  },
+  {
+   "title": "Shein loses UK copyright battle against rival Temu",
+   "link": "https://www.just-style.com/news/shein-temu-copyright-dispute/",
+   "summary": "A London court has ruled against fast-fashion retailer Shein in its copyright infringement lawsuit against rival Temu.",
+   "source": "Just Style",
+   "regions": [
+    "Europe",
+    "Global"
+   ],
+   "published": "2026-08-14T08:29:37+00:00"
+  },
+  {
+   "title": "Birkenstock sales accelerate in third quarter",
+   "link": "https://www.drapersonline.com/news/birkenstock-sales-accelerate-in-third-quarter",
+   "summary": "Drapers Birkenstock sales accelerate in third quarter German footwear company Birkenstock has reported a 13% rise in revenue to €720m (£615m) during the third quarter to 30 June 2026. The post Birkenstock sales accelerate in third quarter appeared first on Drapers .",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-14T07:11:23+00:00"
+  },
+  {
+   "title": "French Connection joins line-up at Frasers Plus Designer Outlet Leeds",
+   "link": "https://www.drapersonline.com/news/french-connection-joins-premium-line-up-at-frasers-plus-designer-outlet-leeds",
+   "summary": "Drapers French Connection joins line-up at Frasers Plus Designer Outlet Leeds French Connection has opened a 2,257 sq ft unit at Frasers Plus Designer Outlet Leeds. The post French Connection joins line-up at Frasers Plus Designer Outlet Leeds appeared first on Drapers .",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-14T07:08:46+00:00"
+  },
+  {
+   "title": "China’s JD.com achieves ‘bottom-line growth’",
+   "link": "https://www.drapersonline.com/news/chinas-jd-com-achieves-bottom-line-growth",
+   "summary": "Drapers China’s JD.com achieves ‘bottom-line growth’ Chinese ecommerce giant JD.com has managed to tackle revenue headwinds with \"strong bottom-line growth\" as operating income rose during the three months to 30 June 2026. The post China’s JD.com achieves ‘bottom-line growth’ ap…",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-14T06:55:11+00:00"
+  },
+  {
+   "title": "Shein loses copyright case against Temu",
+   "link": "https://www.drapersonline.com/news/shein-loses-copyright-case-against-temu",
+   "summary": "Drapers Shein loses copyright case against Temu Fast fashion giant Shein has lost a lawsuit against rival Temu for alleged copyright infringement in relation to photos of some of its products. The post Shein loses copyright case against Temu appeared first on Drapers .",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-14T06:48:46+00:00"
   },
   {
    "title": "Fabletics Enters India with Reliance Brands",
@@ -211,14 +375,14 @@
    "published": "2026-08-13T13:25:11+00:00"
   },
   {
-   "title": "Frasers Group acquires Harvey Nichols",
-   "link": "https://www.drapersonline.com/news/frasers-group-acquires-harvey-nichols",
-   "summary": "Drapers Frasers Group acquires Harvey Nichols Frasers Group has announced the acquisition of Harvey Nichols, including its six stores, online business, existing inventory and the roles for more than 1,000 employees. The post Frasers Group acquires Harvey Nichols appeared first o…",
-   "source": "Drapers",
+   "title": "Frasers Group confirms acquisition of Harvey Nichols, warns of ‘significant restructuring’",
+   "link": "https://www.just-style.com/news/frasers-group-confirms-acquisition-of-harvey-nichols/",
+   "summary": "After weeks of speculation, Frasers Group has confirmed it has purchased luxury department store chain Harvey Nichols.",
+   "source": "Just Style",
    "regions": [
-    "Europe"
+    "Global"
    ],
-   "published": "2026-08-13T12:26:20+00:00"
+   "published": "2026-08-13T13:08:14+00:00"
   },
   {
    "title": "Supply chain AI readiness lags behind widespread ambitions",
@@ -301,56 +465,6 @@
    "published": "2026-08-13T08:00:21+00:00"
   },
   {
-   "title": "Türkiye’s Textile Industry Sets the Pace for the Next Season",
-   "link": "https://www.just-style.com/news/turkiyes-textile-industry-sets-the-pace-for-the-next-season/",
-   "summary": "Texhibition Istanbul Fabric and Textile Accessories Fair will take place from 9 to 11 September 2026 at Istanbul Expo Center.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-13T07:56:13+00:00"
-  },
-  {
-   "title": "Mulberry updates board",
-   "link": "https://www.drapersonline.com/companies/directory/mulberry/mulberry-updates-board",
-   "summary": "Drapers Mulberry updates board Mulberry has appointed Sara Dickinson and Kenny Wilson to its board, effective 9 September. The post Mulberry updates board appeared first on Drapers .",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-08-13T07:15:22+00:00"
-  },
-  {
-   "title": "Frasers’ acquisition of Harvey Nichols ‘imminent’",
-   "link": "https://www.drapersonline.com/news/frasers-acquisition-of-harvey-nichols-imminent",
-   "summary": "Drapers Frasers’ acquisition of Harvey Nichols ‘imminent’ Frasers Group owner Mike Ashley has reportedly been finalising his offer for Harvey Nichols, an acquisition the group is hoping to announce today (13 August). The post Frasers’ acquisition of Harvey Nichols ‘imminent’ app…",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-08-13T07:05:03+00:00"
-  },
-  {
-   "title": "UK economy growth decelerates as retail stalls",
-   "link": "https://www.drapersonline.com/news/uk-economy-growth-decelerates-as-retail-stalls",
-   "summary": "Drapers UK economy growth decelerates as retail stalls UK gross domestic product (GDP) edged up 0.4% in the three months to June 2026, a decline on the 0.8% growth recorded in the three months to April, according to the Office for National Statistics (ONS). The post UK economy g…",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-08-13T06:33:52+00:00"
-  },
-  {
-   "title": "Karen Millen returns to high street with concession rollout",
-   "link": "https://www.drapersonline.com/news/karen-millen-returns-to-high-street-with-concession-rollout",
-   "summary": "Drapers Karen Millen returns to high street with concession rollout After a seven year hiatus, luxury womenswear label Karen Millen is returning to the high street with a rollout of concession stores throughout the UK. The post Karen Millen returns to high street with concession…",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-08-13T06:00:28+00:00"
-  },
-  {
    "title": "Gold prices are soaring, but buyers are still stepping up festive purchases",
    "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/gold-prices-are-soaring-but-buyers-are-still-stepping-up-festive-purchases/133196297",
    "summary": "Gold prices have surged significantly, encouraging consumers to buy the yellow metal. Expectations of further price increases are driving purchases ahead of the festive season. Consumers are adapting by choosing lighter designs and lower-carat gold options. Jewellery purchases f…",
@@ -411,16 +525,6 @@
    "published": "2026-08-13T00:00:00+00:00"
   },
   {
-   "title": "The retailers calling time on store crime",
-   "link": "https://www.drapersonline.com/subscriber-only-content/the-retailers-calling-time-on-store-crime",
-   "summary": "Drapers The retailers calling time on store crime New legislation is helping retailers and police to crack down hard on the retail crime crisis. Marks & Spencer, Primark, H&M, Frasers Group and others tell us how. The post The retailers calling time on store crime appeared first…",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-08-12T13:32:16+00:00"
-  },
-  {
    "title": "Borana Weaves Q1 Profit Rises 35% to Rs 164.8 Crore",
    "link": "https://apparelresources.com/business-news/manufacturing/borana-weaves-q1-profit-rises-35-rs-164-8-crore/",
    "summary": "Surat-based textile manufacturer, Borana Weaves reported a 35% year-on-year increase in standalone net profit to Rs 164.8 crore (US $17.27 million) for the quarter ended June 30, compared with Rs 122 crore (US $12.79 million) in Q1FY26. Revenue from operations rose 24% to Rs 1,0…",
@@ -469,57 +573,6 @@
     "India"
    ],
    "published": "2026-08-12T10:34:30+00:00"
-  },
-  {
-   "title": "China responds to expanded UFLPA Entity List, blacklists six US companies",
-   "link": "https://www.just-style.com/news/china-responds-to-expanded-uflpa-entity-list-blacklists-six-us-companies/",
-   "summary": "China criticises the US' decision to expand the Uyghur Forced Labour Prevention Act (UFLPA) Entity List and blacklists six US companies.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-12T10:23:53+00:00"
-  },
-  {
-   "title": "India’s Cotton Stocks Hit Record 93.59 Lakh Bales",
-   "link": "https://apparelresources.com/business-news/trade-business-news/indias-cotton-stocks-hit-record-93-59-lakh-bales/",
-   "summary": "India’s cotton opening stocks for the 2026-27 crop year, beginning October, are estimated to rise 68% year on year to a record 93.59 lakh bales of 170 kg each, according to the Cotton Association of India (CAI). The sharp increase is primarily attributed to record cotton imports…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-12T10:23:29+00:00"
-  },
-  {
-   "title": "What Shein’s IPO filing reveals about its Sourcing and Supply Chain Strategy",
-   "link": "https://www.just-style.com/comment/what-sheins-ipo-filing-reveals-about-its-sourcing-and-supply-chain-strategy/",
-   "summary": "Sheng Lu, professor of apparel studies at the University of Delaware, does a deep-dive into Shein's sourcing and supply chain strategies.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-12T10:23:03+00:00"
-  },
-  {
-   "title": "MIT engineers create recyclable elastic yarn to tackle textile waste",
-   "link": "https://www.just-style.com/news/mit-engineers-recyclable-yarn/",
-   "summary": "A team of engineers at MIT has developed a new recyclable yarn made from polyethylene to tackle textile waste.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-12T10:14:41+00:00"
-  },
-  {
-   "title": "DHL, Vinted expand alliance to grow locker network for pre-owned fashion",
-   "link": "https://www.just-style.com/news/dhl-vinted-germany-collaboration/",
-   "summary": "DHL and fashion resale marketplace Vinted have announced an expanded collaboration targeting Germany’s thriving second-hand market.",
-   "source": "Just Style",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-08-12T10:00:51+00:00"
   },
   {
    "title": "Senco Gold reports 67 per cent revenue growth in Q1 FY27, adds eight new showrooms",
@@ -574,7 +627,7 @@
   {
    "title": "Improving private equity exit prospects",
    "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/improving-private-equity-exit-prospects",
-   "summary": "In today’s tougher exit environment, private equity firms are facing longer holding periods, valuation gaps, and increased pressure to return capital. Kai Vollhardt and Jelena Bauer are joined by Christian Habrich and Frederyk Schröder as they unpack their latest article on how …",
+   "summary": "In today’s tougher exit environment, private equity firms are facing longer holding periods, valuation gaps, and increased pressure to return capital.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -600,59 +653,6 @@
     "Global"
    ],
    "published": "2026-08-12T00:00:00+00:00"
-  },
-  {
-   "title": "Cantabil Retail Targets Rs. 1,000 crore Turnover in FY ’27, Plans 80 New Stores",
-   "link": "https://apparelresources.com/business-news/retail/cantabil-retail-targets-rs-1000-crore-turnover-fy-27-plans-80-new-stores/",
-   "summary": "Cantabil Retail India Limited is targeting a turnover of Rs. 1,000 crore (US $104.62 million) in the current financial year, building on a record FY ’26 and a strong start to FY ’27. The company closed FY ’26 with revenue of Rs. 852.6 crore (US $89.21 million), registering an 18…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-11T13:18:04+00:00"
-  },
-  {
-   "title": "Raymond Lifestyle Targets 25% of Exports from Europe",
-   "link": "https://apparelresources.com/business-news/retail/raymond-lifestyle-targets-25-exports-europe/",
-   "summary": "Raymond Lifestyle is looking to significantly increase its presence in the European market, with the region expected to account for around 20-25% of the company’s exports over the next two years, according to CEO Satyaki Ghosh. The strategy comes as Indian garment exporters reas…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "Europe",
-    "India"
-   ],
-   "published": "2026-08-11T12:38:01+00:00"
-  },
-  {
-   "title": "Polo Dresses Are Fashion’s Pre-Fall Power Move",
-   "link": "https://apparelresources.com/fashion-news/trends/polo-dresses-fashions-pre-fall-power-move/",
-   "summary": "The polo shirt just got an upgrade — and it’s wearing a hemline. As collared, ribbed-placket dressing moves from courtside to runway, the polo dress is emerging as one of the season’s most unexpected pre-fall statements, according to a recent Harper’s Bazaar UK trend report. The…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "Europe",
-    "India"
-   ],
-   "published": "2026-08-11T11:44:19+00:00"
-  },
-  {
-   "title": "Madden NYC Enters India with Women’s Footwear",
-   "link": "https://apparelresources.com/business-news/retail/madden-nyc-enters-india-womens-footwear/",
-   "summary": "Madden NYC, the accessible fashion brand from Steve Madden, an American fashion designer and businessman, has entered India with a women’s footwear collection. The brand will be available online and through select retail outlets across the country. The collection includes sneake…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-11T11:30:41+00:00"
-  },
-  {
-   "title": "RSWM Partners with Spain-based NDS9 to Expand Garment Manufacturing",
-   "link": "https://apparelresources.com/business-news/manufacturing/rswm-partners-spain-based-nds9-expand-garment-manufacturing/",
-   "summary": "RSWM Limited, the flagship company of the LNJ Bhilwara Group has entered into a joint venture agreement with Spain-based Noize Design Studio (NDS9) to establish an integrated garment manufacturing platform in India focused on premium denim and activewear for international appare…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "Europe",
-    "India"
-   ],
-   "published": "2026-08-11T11:23:27+00:00"
   },
   {
    "title": "RSWM, Spain's NDS9 form JV to set up Rs 186 crore premium apparel facility",
