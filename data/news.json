@@ -1,7 +1,7 @@
 {
- "updated_at": "16 Aug 2026, 11:24 AM IST",
- "updated_at_iso": "2026-08-16T05:54:05.354333+00:00",
- "count": 74,
+ "updated_at": "17 Aug 2026, 11:30 AM IST",
+ "updated_at_iso": "2026-08-17T06:00:43.056857+00:00",
+ "count": 72,
  "reference_links": [
   {
    "name": "Statista — Apparel Market",
@@ -21,6 +21,106 @@
  ],
  "items": [
   {
+   "title": "EXCLUSIVE: A Stash of Rare Comme des Garçons Is Going Up for Auction",
+   "link": "https://wwd.com/fashion-news/designer-luxury/comme-des-garcons-auction-london-kerry-taylor-1239086395/",
+   "summary": "Australian collector Octavius La Rosa, founder of Australian resale store and site Dot Comme, is bring 265 rare pieces to Kerry Taylor Auctions.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-17T05:00:00+00:00"
+  },
+  {
+   "title": "Inside the WWD Archives: Hollywood Revisited: Film and Fashion the Perfect Pairing",
+   "link": "https://wwd.com/fashion-news/fashion-features/hollywood-revisited-film-fashion-faye-dunaway-cybill-shepard-great-gatsby-1239099206/",
+   "summary": "As Hollywood revisits iconic films, WWD turns to its archives to reexamine on-the-set encounters with directors, celebrities and the fashion.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-17T04:01:00+00:00"
+  },
+  {
+   "title": "JCPenney’s ‘Retail Regrets Trade-in’",
+   "link": "https://wwd.com/business-news/retail/jcpenney-sets-retail-regrets-trade-ins-1239123237/",
+   "summary": "The three-day program at the end of August aims to incentivize shoppers to visit JCPenney stores.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-17T04:01:00+00:00"
+  },
+  {
+   "title": "Pacsun’s Field of Study Men’s Brand in Growth Mode",
+   "link": "https://wwd.com/menswear-news/mens-retail-business/pacsun-field-of-study-mens-brand-richard-cox-dominic-chavez-1239123678/",
+   "summary": "The elevated private brand is being rolled out from 25 to more than 300 stores this fall.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-17T04:01:00+00:00"
+  },
+  {
+   "title": "U.S. Polo Assn. Eyeing $4 Billion in Sales Within Five to Seven Years",
+   "link": "https://wwd.com/menswear-news/mens-retail-business/u-s-polo-assn-4-billion-michael-prince-1239124469/",
+   "summary": "The official organization for polo clubs and players will expand retail and e-commerce as it moves beyond $2.7 billion in global sales.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-17T04:01:00+00:00"
+  },
+  {
+   "title": "Untuckit to Expand Into Men’s Jeans",
+   "link": "https://wwd.com/fashion-news/fashion-scoops/untuckit-mens-jeans-chris-riccobono-1239125400/",
+   "summary": "The brand best known for its men’s shirts will offer three washes in a slim straight fit.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-17T04:01:00+00:00"
+  },
+  {
+   "title": "Seven of Georgina Rodríguez’s Watches Are Worth About $2.1 Million",
+   "link": "https://wwd.com/pop-culture/celebrity-news/georgina-rodriguez-watch-collection-1239124391/",
+   "summary": "The newlywed’s collection includes a $788,000 Patek Philippe and Rolex’s former most expensive model.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-16T17:21:00+00:00"
+  },
+  {
+   "title": "Georgina Rodríguez and Cristiano Ronaldo’s Newlywed Debut Is a Sporty Family Affair",
+   "link": "https://wwd.com/pop-culture/celebrity-news/georgina-rodriguez-cristiano-ronaldo-newlywed-appearance-1239126308/",
+   "summary": "Four days after marrying in Portugal, the couple and their children watched Al-Nassr take on Al-Fateh in Riyadh.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-16T17:17:14+00:00"
+  },
+  {
+   "title": "Kanye West’s New Yeezy 800 Sneaker Will Be Released This Holiday Season — Here’s a Detailed Look",
+   "link": "https://wwd.com/footwear-news/sneaker-news/kanye-west-yeezy-800-release-date-1239126273/",
+   "summary": "The Yeezy 800 sneaker has already drawn polarizing reactions on social media.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-16T17:15:24+00:00"
+  },
+  {
+   "title": "Anne Hathaway Continues Her Asymmetrical Maternity Style Streak in Waves of Red",
+   "link": "https://wwd.com/pop-culture/celebrity-news/anne-hathaway-jamemme-dress-d23-princess-diaries-3-1239126248/",
+   "summary": "The actress layered her J’amemme dress over white trousers while confirming that “The Princess Diaries 3” is in production.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-16T16:16:12+00:00"
+  },
+  {
    "title": "Marks & Spencer partners with London streetwear label Aries",
    "link": "https://www.drapersonline.com/news/marks-spencer-partners-with-london-streetwear-label-aries",
    "summary": "Drapers Marks & Spencer partners with London streetwear label Aries High street giant Marks & Spencer has announced a limited edition collection with cult London streetwear label Aries which reintroduces the retailer's heritage St Michael label. The post Marks & Spencer partners…",
@@ -29,107 +129,6 @@
     "Europe"
    ],
    "published": "2026-08-15T23:01:00+00:00"
-  },
-  {
-   "title": "Tara Lipinski Brings Back Every Bow From Her ‘Devil Wears Prada 2’ Premiere Look",
-   "link": "https://wwd.com/footwear-news/shoe-trends/tara-lipinski-givenchy-mules-tv-academys-televerse-festival-1239126037/",
-   "summary": "Her Vera Wang minidress and Givenchy mules returned together for a “Traitors” reunion at the Televerse Festival.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-15T18:09:19+00:00"
-  },
-  {
-   "title": "Michael Jordan’s Most Popular Air Jordan Is Getting a Brand-new Chicago Bulls-themed Release",
-   "link": "https://wwd.com/footwear-news/sneaker-news/air-jordan-4-retro-og-bloodline-release-date-fv5029-005-1239126010/",
-   "summary": "The Air Jordan 4 Retro OG will be released in a new-yet-familiar \"Bloodline\" colorway.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-15T17:31:28+00:00"
-  },
-  {
-   "title": "Maura Higgins Reunites With ‘The Traitors’ Cast in Feathered Genny Set",
-   "link": "https://wwd.com/pop-culture/celebrity-news/maura-higgins-genny-outfit-traitors-televerse-festival-1239126020/",
-   "summary": "She paired the corseted white look with sharply pointed pumps at the Television Academy’s Televerse Festival.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-15T17:30:04+00:00"
-  },
-  {
-   "title": "Lisa Rinna Hangs With ‘The Traitors’ Cast in Edgy Black Pumps at TV Academy’s Televerse Festival",
-   "link": "https://wwd.com/footwear-news/shoe-trends/lisa-rinna-black-pumps-tv-academy-2026-televerse-festival-1239126008/",
-   "summary": "The former \"Real Housewives of Beverly Hills\" star paired her caged footwear with a voluminous all-black look.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-15T17:00:43+00:00"
-  },
-  {
-   "title": "Sadie Sink Pulls From Alexander McQueen’s Famed 2004 Deliverance Collection for Jean Grey Reveal",
-   "link": "https://wwd.com/pop-culture/celebrity-news/sadie-sink-alexander-mcqueen-gown-disneys-showcase-1239125986/",
-   "summary": "The actress pulled from the designer’s spring 2004 collection for Disney’s Entertainment Showcase at D23.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-15T16:04:17+00:00"
-  },
-  {
-   "title": "Michael Jordan’s Most Popular Air Jordan Is Getting a New Jackie Robinson Tribute Style",
-   "link": "https://wwd.com/footwear-news/sneaker-news/air-jordan-4-retro-og-jackie-robinson-release-date-jj9189-101-1239125989/",
-   "summary": "The Air Jordan 4 will be released in a new colorway paying tribute to the legendary Jackie Robinson.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-15T15:54:23+00:00"
-  },
-  {
-   "title": "Inside the WWD Archive: Calvin Klein and the Evolution of Off-court Tennis Style",
-   "link": "https://wwd.com/fashion-news/fashion-features/inside-wwd-archives-calvin-klein-evolution-of-off-court-tennis-style-1239125357/",
-   "summary": "Tennis style has long made a statement, but when Seventh Avenue designers brought it to the runway, its evolution truly began.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-15T13:00:00+00:00"
-  },
-  {
-   "title": "With 100% Tariffs Looming, Indian Suppliers Lay Plans to Pivot Away from the US Market",
-   "link": "https://wwd.com/sourcing-journal/trade/100-percent-russia-tariffs-india-suppliers-trade-sourcing-at-magic-1239125827/",
-   "summary": "Trade negotiations between the United States and India have been fraught with tension bordering on passive aggression over the past year.",
-   "source": "WWD",
-   "regions": [
-    "Global",
-    "India"
-   ],
-   "published": "2026-08-14T23:46:34+00:00"
-  },
-  {
-   "title": "Asia-US East Coast Freight Rates Hit 2026 Peak. Can the Rally Continue?",
-   "link": "https://wwd.com/sourcing-journal/logistics/asia-us-east-coast-freight-rates-hit-2026-high-panama-canal-surcharges-1239125730/",
-   "summary": "A resilient container market has challenged expectations of a late-summer slowdown and Panama Canal costs could keep the peak going.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-14T22:07:55+00:00"
-  },
-  {
-   "title": "Clarity Systems Secures $4.4 Million",
-   "link": "https://wwd.com/sourcing-journal/industry-news/clarity-systems-retail-fraud-seed-funding-1239125656/",
-   "summary": "The company's technology is meant to help address the perennial issue of retail fraud.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-14T21:58:04+00:00"
   },
   {
    "title": "John Lewis and Mountain Warehouse bosses: this week’s fashion retail people moves",
@@ -484,16 +483,6 @@
    "published": "2026-08-13T00:00:00+00:00"
   },
   {
-   "title": "Putting innovation—and patients—in focus: A conversation with Astellas Pharma CEO Naoki Okamura",
-   "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/putting-innovation-and-patients-in-focus-a-conversation-with-astellas-pharma-ceo-naoki-okamura",
-   "summary": "The Tokyo-based biopharmaceutical company is accelerating its pipeline by innovating at the intersection of biology, modality, and disease.",
-   "source": "McKinsey & Company",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-13T00:00:00+00:00"
-  },
-  {
    "title": "How premium leisure travel is rewriting airline economics",
    "link": "https://www.mckinsey.com/industries/travel/our-insights/how-premium-leisure-travel-is-rewriting-airline-economics",
    "summary": "Business class isn’t just for corporate travelers anymore. Affluent vacationers are splurging on premium cabins—and becoming one of the biggest drivers of airline profitability.",
@@ -507,6 +496,16 @@
    "title": "How instant payments are transforming the financial landscape",
    "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-instant-payments-are-transforming-the-financial-landscape",
    "summary": "Lessons from markets around the world can help commercial payments players keep pace with a rapidly evolving environment.",
+   "source": "McKinsey & Company",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-13T00:00:00+00:00"
+  },
+  {
+   "title": "Putting innovation—and patients—in focus: A conversation with Astellas Pharma CEO Naoki Okamura",
+   "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/putting-innovation-and-patients-in-focus-a-conversation-with-astellas-pharma-ceo-naoki-okamura",
+   "summary": "The Tokyo-based biopharmaceutical company is accelerating its pipeline by innovating at the intersection of biology, modality, and disease.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -744,26 +743,6 @@
     "India"
    ],
    "published": "2026-08-10T08:58:00+00:00"
-  },
-  {
-   "title": "Solutions for the Black maternal-health crisis",
-   "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/solutions-for-the-black-maternal-health-crisis",
-   "summary": "Joy Rhoden of the American Hospital Association discusses how data, community partnerships, expanded care teams, and a focus on addressing health disparities are essential to improving maternal health outcomes.",
-   "source": "McKinsey & Company",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-10T00:00:00+00:00"
-  },
-  {
-   "title": "Author Talks: The biggest misconceptions about leadership",
-   "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-biggest-misconceptions-about-leadership",
-   "summary": "What if success depends less on talent than on luck, resilience, and your choices when things go wrong? Former Inflection CEO Mike Grossman challenges conventional wisdom about success and leadership.",
-   "source": "McKinsey & Company",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-10T00:00:00+00:00"
   }
  ]
 }
