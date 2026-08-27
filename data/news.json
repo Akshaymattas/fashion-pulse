@@ -1,7 +1,7 @@
 {
- "updated_at": "26 Aug 2026, 11:29 AM IST",
- "updated_at_iso": "2026-08-26T05:59:54.926312+00:00",
- "count": 57,
+ "updated_at": "27 Aug 2026, 10:09 PM IST",
+ "updated_at_iso": "2026-08-27T16:39:01.552104+00:00",
+ "count": 71,
  "reference_links": [
   {
    "name": "Statista — Apparel Market",
@@ -21,85 +21,468 @@
  ],
  "items": [
   {
-   "title": "Diamond Jeweler Jessica McCormack to Open First West Coast Store at South Coast Plaza",
-   "link": "https://wwd.com/business-news/retail/diamond-jeweler-jessica-mccormack-south-coast-plaza-store-1239098956/",
-   "summary": "The store, which spans 1,600 square feet, is the diamond jewelry brand’s fourth stand-alone retail location after Madison Avenue in New York, and Sloane Street and Carlos Place in London.",
+   "title": "Bangladesh’s Factory Fans Get Second Wind",
+   "link": "https://wwd.com/sourcing-journal/sustainability/bangladesh-bidec-bgmea-fans-retrofit-energy-crisis-1239166465/",
+   "summary": "A homegrown retrofit technology aims to turn Bangladesh's energy-hungry ceiling fans into a cheaper, cooler answer to the garment industry’s heat and power woes.",
    "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-27T16:34:58+00:00"
+  },
+  {
+   "title": "Spinnova Files for $15 Million U.S. IPO as Commercial Test Looms",
+   "link": "https://wwd.com/sourcing-journal/industry-news/spinnova-us-ipo-sec-filing-commercialization-1239166260/",
+   "summary": "The Finnish fiber innovator is courting U.S. investors to restart its demo operation and close a sizable gap between brand validation and binding business.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-27T16:33:09+00:00"
+  },
+  {
+   "title": "James Harden’s Next Adidas Sneaker Is Defined by One Big Wave",
+   "link": "https://wwd.com/footwear-news/sneaker-news/adidas-harden-vol-11-first-look-1239166248/",
+   "summary": "A new overlay shape progresses the design language from his last few signature models.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-27T16:19:16+00:00"
+  },
+  {
+   "title": "Vivaia Puts Meg Stalter and Jenna Lyons in Charge of the Office Shoe",
+   "link": "https://wwd.com/footwear-news/shoe-trends/vivaia-rework-office-shoes-meg-stalter-jenna-lyons-1239165906/",
+   "summary": "Vivaia's new creative director Alan Buanne says work shoes are no longer limited to the black block heel.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-27T16:17:22+00:00"
+  },
+  {
+   "title": "Nike Quietly Dropped a New ‘Intentional Recovery’ Sneaker That Hugs Your Foot Before and After Training",
+   "link": "https://wwd.com/footwear-news/sneaker-news/nike-24-7-recovery-shoe-ir0447-001-1239166195/",
+   "summary": "The just-released Nike 24.7 is available now in men's and women's sizing.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-27T15:41:40+00:00"
+  },
+  {
+   "title": "Drapers 30 Under 30 2027: Deadline approaching",
+   "link": "https://www.drapersonline.com/news/drapers-30-under-30-2027-deadline-approaching",
+   "summary": "Drapers Drapers 30 Under 30 2027: Deadline approaching There is now less than a month to enter Drapers 30 Under 30 2027, our annual search for the strongest talent and rising fashion retail stars. The post Drapers 30 Under 30 2027: Deadline approaching appeared first on Drapers .",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-27T15:27:20+00:00"
+  },
+  {
+   "title": "Adria Arjona Pairs Calvin Klein’s Sharp Minimalism With $116,500 in Tiffany & Co. Jewelry",
+   "link": "https://wwd.com/pop-culture/celebrity-news/adria-arjona-calvin-klein-collection-dress-onslaught-1239165977/",
+   "summary": "The actress attended the Los Angeles premiere of her new film \"Onslaught\" on Wednesday night.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-27T15:14:58+00:00"
+  },
+  {
+   "title": "First look: Inside Lefties’ first UK store",
+   "link": "https://www.drapersonline.com/companies/directory/inditex/first-look-inside-lefties-first-uk-store",
+   "summary": "Drapers First look: Inside Lefties’ first UK store Inditex's value fashion brand Lefties has today (27 August) opened the doors to its first UK store at Liverpool One shopping centre. The post First look: Inside Lefties’ first UK store appeared first on Drapers .",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-27T15:12:31+00:00"
+  },
+  {
+   "title": "Brandon Blackwood Named to New York’s New Business Advisory Council",
+   "link": "https://wwd.com/fashion-news/fashion-scoops/brandon-blackwood-new-york-business-advisory-council-zohran-mamdani-1239166114/",
+   "summary": "The designer will join 14 other executives from all walks of life and advise Mayor Zohran Mamdani.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-27T15:11:33+00:00"
+  },
+  {
+   "title": "Venetian Firm Fortuny Teams With Rehabilitation Community for First Wallpaper Collection",
+   "link": "https://wwd.com/home-design/home-decor/fortuny-first-wallpaper-collection-san-patrignano-1239165936/",
+   "summary": "The collection will be presented throughout September at Fortuny's historic Giudecca showroom during Homo Faber 2026 and as part of the Homo Faber in Città cultural program.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-27T15:01:50+00:00"
+  },
+  {
+   "title": "EXCLUSIVE: Balenciaga Melds Dark, Light in Fall Campaign",
+   "link": "https://wwd.com/fashion-news/designer-luxury/balenciaga-fall-2026-campaign-anok-yai-1239165957/",
+   "summary": "“Clair-obscur” was the title of Pierpaolo Piccioli's fall 2026 collection, and photographer Robin Galiegue indulged in shadow play.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-27T15:00:00+00:00"
+  },
+  {
+   "title": "Meet the Team: Boux Avenue’s buying brigade",
+   "link": "https://www.drapersonline.com/people/changing-roles/careers/meet-the-team-boux-avenues-buying-and-design-brigade",
+   "summary": "Drapers Meet the Team: Boux Avenue’s buying brigade At Boux Avenue, the buying and design team work in tandem. Zoe Price-Smith, chief design and product officer at the lingerie business, shares how they work across three seasons at once and remain agile to fashion’s ever evolvin…",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-27T14:50:00+00:00"
+  },
+  {
+   "title": "Suppliers Weigh the Challenges of Cashmere in Denim",
+   "link": "https://wwd.com/sourcing-journal/sj-denim/suppliers-weigh-challenges-of-cashmere-in-denim-1239149557/",
+   "summary": "Cashmere-blended denim offers enhanced softness and refinement.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-27T14:30:00+00:00"
+  },
+  {
+   "title": "Soft Suede Emerges as Key Texture for Early Fall 2026",
+   "link": "https://apparelresources.com/fashion-news/trends/soft-suede-emerges-key-texture-early-fall-2026/",
+   "summary": "Suede is emerging as one of the defining textures of the early fall 2026 season, with brands across global and Indian markets incorporating the material into transitional-season collections in warm neutral and earthy tones. Zara has introduced suede pieces as part of its fall of…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "Europe",
+    "India"
+   ],
+   "published": "2026-08-27T13:12:02+00:00"
+  },
+  {
+   "title": "Japan’s Uniqlo to Step Up Sourcing, Investment in India: Piyush Goyal",
+   "link": "https://apparelresources.com/business-news/manufacturing/japans-uniqlo-step-sourcing-investment-india-piyush-goyal/",
+   "summary": "Japanese textile companies, including global apparel retailer Uniqlo, are expected to increase sourcing of textile inputs from India and step up investments in the country to manufacture and export textile products to global markets, according to Commerce Minister Piyush Goyal. …",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-27T12:56:52+00:00"
+  },
+  {
+   "title": "Arvind’s Sustainable Cotton Sourcing Hits 87% in FY26",
+   "link": "https://apparelresources.com/business-news/manufacturing/arvinds-sustainable-cotton-sourcing-hits-87-fy26/",
+   "summary": "Arvind Limited filed its Business Responsibility and Sustainability Report (BRSR) for FY26 on August 26, 2026, detailing its progress on environmental and social governance targets across its textile operations. The report covers standalone operations and has received limited as…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-27T12:46:19+00:00"
+  },
+  {
+   "title": "Amazon Now Targets 300 Cities as Fashion Orders Double Quarterly",
+   "link": "https://apparelresources.com/business-news/retail/amazon-now-targets-300-cities-fashion-orders-double-quarterly/",
+   "summary": "Amazon is expanding its quick-commerce offering in fashion as it looks to tap into demand for fashion and lifestyle products that consumers need immediately. Orders on Amazon Now have doubled every quarter since its launch, while Prime members are tripling their shopping frequen…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-27T11:56:20+00:00"
+  },
+  {
+   "title": "In pictures: Berghaus opens first store in North West England",
+   "link": "https://www.drapersonline.com/news/in-pictures-berghaus-opens-first-store-in-north-west-england",
+   "summary": "Drapers In pictures: Berghaus opens first store in North West England British outdoor brand Berghaus has opened the doors to its newest store at Manchester Arndale shopping centre, its first standalone store in the North West of England. The post In pictures: Berghaus opens firs…",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-27T11:52:50+00:00"
+  },
+  {
+   "title": "BFC chair to step down",
+   "link": "https://www.drapersonline.com/people/people-moves/bfc-chair-to-step-down",
+   "summary": "Drapers BFC chair to step down David Pemsel, chair of the British Fashion Council (BFC), will step down on 30 September after four years as executive chair and a decade on its executive board. The post BFC chair to step down appeared first on Drapers .",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-27T11:24:50+00:00"
+  },
+  {
+   "title": "AMI announces 2027 launch of new Textiles Manufacturing Expo",
+   "link": "https://www.just-style.com/news/textile-manufacturing-expo-launch/",
+   "summary": "Applied Market Information (AMI) has announced the upcoming launch of the Textiles Manufacturing Expo, taking place 7-8 April 2027.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-27T10:52:02+00:00"
+  },
+  {
+   "title": "Abercrombie & Fitch lifts 2026 outlook after ‘record’ Q2 net sales",
+   "link": "https://www.just-style.com/news/abercrombie-fitch-q2-2026/",
+   "summary": "Abercrombie & Fitch has lifted its fiscal 2026 (FY26) sales and profit outlook after recording robust second quarter (Q2) results.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-27T10:42:06+00:00"
+  },
+  {
+   "title": "Natural diamond prices have fallen 20-30 per cent from post-pandemic highs: Paul Rowley, De Beers",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/natural-diamond-prices-have-fallen-20-30-per-cent-from-post-pandemic-highs-paul-rowley-de-beers/133565092",
+   "summary": "Natural diamond prices have stabilised after a significant correction, with larger stones seeing price increases. De Beers is now focusing on India as a key growth engine for future expansion. India's natural diamond market is projected to grow substantially, driven by younger c…",
+   "source": "ET Retail — Apparel & Fashion",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-27T10:25:40+00:00"
+  },
+  {
+   "title": "Fashion’s 80% AI production gap",
+   "link": "https://www.just-style.com/features/fashions-80-ai-production-gap/",
+   "summary": "A report argues that fashion production is lagging behind other sectors in AI adoption as it relies on spreadsheets, emails and PDFs.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-27T10:21:36+00:00"
+  },
+  {
+   "title": "Love the Sales rebrands to TheCode",
+   "link": "https://www.drapersonline.com/news/love-the-sales-rebrands-to-thecode",
+   "summary": "Drapers Love the Sales rebrands to TheCode Premium fashion marketplace Love the Sales has rebranded to TheCode, Drapers can reveal. The post Love the Sales rebrands to TheCode appeared first on Drapers .",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-27T10:06:48+00:00"
+  },
+  {
+   "title": "Harvey Nichols Dublin store to cease trading",
+   "link": "https://www.drapersonline.com/news/harvey-nichols-dublin-store-to-cease-trading",
+   "summary": "Drapers Harvey Nichols Dublin store to cease trading The Harvey Nichols store in Dundrum, Dublin, will cease trading \"on or around 13 September\", staff were informed on Wednesday 26 August. The post Harvey Nichols Dublin store to cease trading appeared first on Drapers .",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-27T10:06:15+00:00"
+  },
+  {
+   "title": "IFCO to move to September for 2027",
+   "link": "https://www.just-style.com/news/ifco-to-move-to-september-for-2027/",
+   "summary": "As it celebrated its 10th edition in Istanbul, IFCO announces plans for a larger event in 2027, due to take place in September.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-27T09:30:45+00:00"
+  },
+  {
+   "title": "M&S expands ZEOS to drive delivery speed, cut costs",
+   "link": "https://www.just-style.com/news/ms-zeos-partnership-europe/",
+   "summary": "Marks & Spencer (M&S) has expanded its partnership with ZEOS, Zalando’s B2B logistics and fulfilment business.",
+   "source": "Just Style",
    "regions": [
     "Europe",
     "Global"
    ],
-   "published": "2026-08-26T04:01:00+00:00"
+   "published": "2026-08-27T09:17:50+00:00"
   },
   {
-   "title": "EXCLUSIVE: Elizabeth Hurley Becomes the Face of Canada’s Joseph Ribkoff",
-   "link": "https://wwd.com/business-news/marketing-promotion/elizabeth-hurley-becames-the-face-of-canadas-joseph-ribkoff-1239123251/",
-   "summary": "The model, actress, entrepreneur and advocate of breast cancer awareness plays a leading role in the brand's multipronged strategy to scale the business and raise its profile.",
-   "source": "WWD",
+   "title": "Abercrombie & Fitch posts record sales and raises guidance",
+   "link": "https://www.drapersonline.com/companies/directory/abercrombie-and-fitch/abercrombie-fitch-posts-record-sales-and-raises-guidance",
+   "summary": "Drapers Abercrombie & Fitch posts record sales and raises guidance Abercrombie & Fitch has reported a rise in sales for the 13 weeks to 1 August 2026, up 5% year on year to $1.3bn (£95m). The post Abercrombie & Fitch posts record sales and raises guidance appeared first on Drape…",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-27T07:11:17+00:00"
+  },
+  {
+   "title": "Temu owner profits slip",
+   "link": "https://www.drapersonline.com/news/temu-owner-profits-slip",
+   "summary": "Drapers Temu owner profits slip Owner of Chinese shopping app Temu PDD Holdings reported pre-tax profit fell during the three months to 30 June 2026, although operating profit rose. The post Temu owner profits slip appeared first on Drapers .",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-27T06:57:21+00:00"
+  },
+  {
+   "title": "Deepa Jewellers sets IPO price band at Rs 168-177; Rs 460 crore issue opens Sept 1",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/deepa-jewellers-sets-ipo-price-band-at-rs-168-177-rs-460-crore-issue-opens-sept-1/133557168",
+   "summary": "Deepa Jewellers has set the price band for its Rs 459.72 crore IPO at Rs 168–177 per share. The issue will open for subscription on September 1 and close on September 3, with listing scheduled for September 8. The offer comprises a Rs 250 crore fresh issue and an OFS of 1.18 cro…",
+   "source": "ET Retail — Apparel & Fashion",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-27T05:26:07+00:00"
+  },
+  {
+   "title": "An update on US consumer sentiment: Holiday budgeting begins",
+   "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-state-of-the-us-consumer",
+   "summary": "Despite being wary about the economy, consumers plan to spend the same or more on holiday shopping as they did last year. Here’s the latest research from our ConsumerWise team.",
+   "source": "McKinsey & Company",
    "regions": [
     "Global"
    ],
-   "published": "2026-08-26T04:01:00+00:00"
+   "published": "2026-08-27T00:00:00+00:00"
   },
   {
-   "title": "Old Navy Rolls Out Beauty Offering Nationwide With Private Label Line and Third-party Brand Assortment",
-   "link": "https://wwd.com/beauty-industry-news/beauty-features/old-navy-expands-beauty-offering-nationwide-1239149092/",
-   "summary": "Old Navy rolls out its beauty concept to 1,000 stores and online, featuring Old Navy Beauty Co. line and third-party brand offerings.",
-   "source": "WWD",
+   "title": "Pacsun’s Gen Z playbook: Listen, learn, and let go",
+   "link": "https://www.mckinsey.com/industries/retail/our-insights/pacsuns-gen-z-playbook-listen-learn-and-let-go",
+   "summary": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
+   "source": "McKinsey & Company",
    "regions": [
     "Global"
    ],
-   "published": "2026-08-26T04:01:00+00:00"
+   "published": "2026-08-27T00:00:00+00:00"
   },
   {
-   "title": "Post Ulta Breakup, Target Corp. Gears Up to Unveil New Beauty Spaces",
-   "link": "https://wwd.com/beauty-industry-news/beauty-features/target-unveils-new-beauty-spaces-1239149432/",
-   "summary": "Launching Sept. 10 in more than 600 Target stores, the reimagined prestige beauty destination features 90 brands — more than two-thirds of which are new to the retailer.",
-   "source": "WWD",
+   "title": "The business shift in India's ₹7 lakh crore market amid gold cost pressure",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/the-business-shift-in-indias-7-lakh-crore-market-amid-gold-cost-pressure/133545184",
+   "summary": "Indian jewellery sales show resilience despite lower gold volumes. Consumers now buy lighter pieces and focus on value per gram. Organised jewellers are expanding by offering diamonds and newer designs. Recycled gold is becoming a significant growth driver for retailers. The mar…",
+   "source": "ET Retail — Apparel & Fashion",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-26T15:30:53+00:00"
+  },
+  {
+   "title": "Founder’s Diary: Byan’s Andrea Moragues",
+   "link": "https://www.drapersonline.com/people/changing-roles/careers/founders-diary-byans-andrea-moragues",
+   "summary": "Drapers Founder’s Diary: Byan’s Andrea Moragues Drapers meets Byan's founder Andrea Moragues ahead of the Spanish womenswear brand putting down roots in the UK with its first London store. The post Founder’s Diary: Byan’s Andrea Moragues appeared first on Drapers .",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-08-26T14:34:46+00:00"
+  },
+  {
+   "title": "Flipkart Minutes overtakes Instamart in dark stores across top 10 cities",
+   "link": "https://apparelresources.com/business-news/retail/flipkart-minutes-overtakes-instamart-dark-stores-across-top-10-cities/",
+   "summary": "Flipkart Minutes has moved ahead of Swiggy Instamart in terms of dark-store presence across India’s top 10 cities. According to a CLSA report, a financial research publication, Flipkart Minutes operated 627 dark stores across the 10 cities as of August 2026, compared with 615 fo…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-26T13:23:48+00:00"
+  },
+  {
+   "title": "PUMA Weaves Jaipur Rugs’ Heritage Into Its Iconic Suede",
+   "link": "https://apparelresources.com/fashion-news/trends/puma-weaves-jaipur-rugs-heritage-iconic-suede/",
+   "summary": "PUMA has joined forces with Jaipur Rugs on “The Legacy Lives On,” a collaboration that brings India’s rug-making heritage into contemporary sneaker culture. At the centre of the partnership is a reworked edition of the classic PUMA Suede, reimagined through the colour and craft …",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-26T12:55:51+00:00"
+  },
+  {
+   "title": "Countrymade Forges Menswear From Metal, Memory and Indian Craft",
+   "link": "https://apparelresources.com/fashion-news/trends/countrymade-forges-menswear-metal-memory-indian-craft/",
+   "summary": "New Delhi menswear label Countrymade has unveiled FOUNDRY, its Autumn/Winter 2026 collection, drawing on the physical processes of a metal-casting factory like heat, pressure, erosion, compression, fusion as ways of treating fabric rather than just describing a mood. Founded in …",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-26T12:46:35+00:00"
+  },
+  {
+   "title": "OfBusiness’ Apparel Revenue Surges 3X to Rs 3,002 Crore in FY26",
+   "link": "https://apparelresources.com/business-news/manufacturing/ofbusiness-apparel-revenue-surges-3x-rs-3002-crore-fy26/",
+   "summary": "B2B commerce platform OfBusiness has reported more than a three-fold increase in its apparel business, with revenue rising to Rs 3,002 crore (US $315.28 million) in FY26 from Rs 843 crore (US $88.50 million) in FY24, as the company prepares to file for an initial public offering…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-26T12:18:44+00:00"
+  },
+  {
+   "title": "Retailers Opt for Measured Pricing as Costs Stay Volatile: Nuvama",
+   "link": "https://apparelresources.com/business-news/retail/retailers-opt-measured-pricing-costs-stay-volatile-nuvama/",
+   "summary": "Indian retailers are keeping price increases measured as they navigate volatility in fabric, yarn and cotton prices, along with supply-chain risks arising from geopolitical disruptions, including the West Asia crisis, according to a research report by Nuvama, a wealth management…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-26T11:06:41+00:00"
+  },
+  {
+   "title": "Dick’s cuts FY26 outlook as Foot Locker drags down Q2 earnings",
+   "link": "https://www.just-style.com/news/dicks-q2-fy26-result/",
+   "summary": "Dick’s Sporting Goods has reduced its FY26 outlook following its Q2 results, as promotional activity weighed on profitability.",
+   "source": "Just Style",
    "regions": [
     "Global"
    ],
-   "published": "2026-08-26T04:01:00+00:00"
+   "published": "2026-08-26T11:02:49+00:00"
   },
   {
-   "title": "Flowerovlove Fronts Coachtopia Fall Campaign",
-   "link": "https://wwd.com/fashion-news/fashion-scoops/flowerovlove-coachtopia-fall-campaign-1239149555/",
-   "summary": "The British singer and songwriter is featured in a video for the company's circular brand.",
-   "source": "WWD",
+   "title": "Pearl Global Targets North Africa Expansion to Boost European Business",
+   "link": "https://apparelresources.com/business-news/manufacturing/pearl-global-targets-north-africa-expansion-boost-european-business/",
+   "summary": "Indian apparel manufacturer Pearl Global Industries is exploring manufacturing opportunities in North Africa and countries such as Jordan as it seeks to move production closer to European customers and reduce its dependence on the US market. According to Managing Director Pallab…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "Europe",
+    "India"
+   ],
+   "published": "2026-08-26T10:46:41+00:00"
+  },
+  {
+   "title": "The business shift in India's Rs 7 lakh crore market amid gold cost pressure",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/the-business-shift-in-indias-rs-7-lakh-crore-market-amid-gold-cost-pressure/133536842",
+   "summary": "Indian jewellery sales show resilience despite lower gold volumes. Consumers now buy lighter pieces and focus on value per gram. Organised jewellers are expanding by offering diamonds and newer designs. Recycled gold is becoming a significant growth driver for retailers. The mar…",
+   "source": "ET Retail — Apparel & Fashion",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-08-26T10:03:08+00:00"
+  },
+  {
+   "title": "Canada hits US with ‘dollar-for-dollar’ tariffs as trade row deepens",
+   "link": "https://www.just-style.com/news/canada-us-tariff-trade/",
+   "summary": "The Canadian government has announced “dollar-for-dollar” retaliatory tariffs on a broad range of US imports.",
+   "source": "Just Style",
    "regions": [
     "Global"
    ],
-   "published": "2026-08-26T04:01:00+00:00"
+   "published": "2026-08-26T10:00:26+00:00"
   },
   {
-   "title": "Resort 2027 Trend: Sporty and Sweet",
-   "link": "https://wwd.com/fashion-news/fashion-trends/resort-2027-trend-sporty-feminine-fashion-accessories-1239149750/",
-   "summary": "The early 2000s celebrity off-duty look of mixing sportif styles with ultra-feminine layers and accessories is back in a new way across the resort 2027 contemporary collections.",
-   "source": "WWD",
+   "title": "Report reveals hidden cost of Jordan’s garment industry",
+   "link": "https://www.just-style.com/features/report-reveals-hidden-cost-of-jordans-garment-industry/",
+   "summary": "A new University of Nottingham report reveals how Jordan's garment industry controls workers far beyond the factory floor.",
+   "source": "Just Style",
    "regions": [
     "Global"
    ],
-   "published": "2026-08-26T04:01:00+00:00"
+   "published": "2026-08-26T09:45:55+00:00"
   },
   {
-   "title": "Thirteen Lune Reacquired by Nyakio Grieco, Announces International Expansion Into South Africa",
-   "link": "https://wwd.com/beauty-industry-news/beauty-features/thirteen-lune-reacquired-nyakio-grieco-expands-south-africa-1239149852/",
-   "summary": "Nyakio Grieco regains ownership of the inclusive beauty platform and reveals a partnership with South Africa’s Takealot.",
-   "source": "WWD",
+   "title": "Crystal International advances green energy shift with solar and I-RECs",
+   "link": "https://www.just-style.com/news/crystal-international-renewal-energy/",
+   "summary": "Crystal International has expanded its global renewable energy shift through on-site rooftop solar, green electricity procurement, and international certificates (I-RECs).",
+   "source": "Just Style",
    "regions": [
     "Global"
    ],
-   "published": "2026-08-26T04:01:00+00:00"
+   "published": "2026-08-26T08:47:18+00:00"
   },
   {
-   "title": "Claire Denis Is Miu Miu Women’s Tales Latest Iteration’s Director",
-   "link": "https://wwd.com/fashion-news/fashion-scoops/miu-miu-womens-tales-director-claire-denis-venice-film-festival-1239148732/",
-   "summary": "The new short film “Avec Kim” will premiere during the upcoming edition of the Venice Film Festival.",
-   "source": "WWD",
+   "title": "UK families change back-to-school shopping habits as costs climb: survey",
+   "link": "https://www.just-style.com/news/school-shopping-uk-rising-cost-survey/",
+   "summary": "Rising living costs have made back-to-school shopping significantly more expensive, says Shein in a report.",
+   "source": "Just Style",
    "regions": [
+    "Europe",
     "Global"
    ],
-   "published": "2026-08-26T04:00:00+00:00"
+   "published": "2026-08-26T08:40:45+00:00"
   },
   {
    "title": "Global trade shake-up reaches fashion as Zara supplier Pearl Global eyes Africa market",
@@ -123,24 +506,34 @@
    "published": "2026-08-26T02:18:17+00:00"
   },
   {
-   "title": "An Eye for an Eye: Canada Retaliates With Duties of Its Own, Hitting American Apparel Products",
-   "link": "https://wwd.com/sourcing-journal/trade/canada-retaliatory-duties-tariffs-american-apparel-usmca-1239150034/",
-   "summary": "“Canada will match the new U.S. tariffs dollar for dollar,” Canadian Prime Minister Mark Carney posted Tuesday morning.",
-   "source": "WWD",
+   "title": "Cross-border payments: Out of the commodity trap, into the future",
+   "link": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+   "summary": "As the current playbook reaches its limits, international payments is transitioning from a stand-alone product to a feature embedded in broader services. Here is how industry players can make the pivot.",
+   "source": "McKinsey & Company",
    "regions": [
     "Global"
    ],
-   "published": "2026-08-25T21:45:43+00:00"
+   "published": "2026-08-26T00:00:00+00:00"
   },
   {
-   "title": "Dick’s and Foot Locker Are in a Footwear ‘Hangover’ as Stock Tumbles 30 Percent",
-   "link": "https://wwd.com/footwear-news/shoe-industry-news/dicks-sporting-goods-stock-price-drop-explained-1239149903/",
-   "summary": "But it’s not all bad news, according to executive chairman Ed Stack.",
-   "source": "WWD",
+   "title": "The decision dividend: How AI creates economic value",
+   "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-decision-dividend-how-ai-creates-economic-value",
+   "summary": "AI’s largest gains rarely come from labor savings alone. They come from faster decisions, better use of existing assets, and opportunities that would otherwise be missed.",
+   "source": "McKinsey & Company",
    "regions": [
     "Global"
    ],
-   "published": "2026-08-25T20:57:57+00:00"
+   "published": "2026-08-26T00:00:00+00:00"
+  },
+  {
+   "title": "Your AI agents need performance management, too",
+   "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/your-ai-agents-need-performance-management-too",
+   "summary": "People are at the heart of any technology transformation. Leading organizations are making changes now to help their talent—and their digital workers—thrive side by side.",
+   "source": "McKinsey & Company",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-08-26T00:00:00+00:00"
   },
   {
    "title": "India’s Retail Sales Up 8% in July; Footwear at 13% and Apparel at 12%",
@@ -183,16 +576,6 @@
    "published": "2026-08-25T12:59:39+00:00"
   },
   {
-   "title": "WAWWA invests in automated fabric cutting to save time and reduce waste",
-   "link": "https://www.just-style.com/news/wawwa-investment-fabric-cutting/",
-   "summary": "WAWWA aims to increase factory productivity and reduce material waste through a £120,000 ($163,639) investment in digital manufacturing technology.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-25T10:05:52+00:00"
-  },
-  {
    "title": "Retailers keep price hikes in check amid rising input costs: Nuvama",
    "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/retailers-keep-price-hikes-in-check-amid-rising-input-costs-nuvama/133503800",
    "summary": "Indian retailers are limiting price hikes despite volatile cotton, yarn and fabric costs and geopolitical supply-chain risks. Companies are adjusting sourcing, building safety stocks and selectively absorbing costs to protect demand. Value retail and electronics remain strong, w…",
@@ -201,48 +584,6 @@
     "India"
    ],
    "published": "2026-08-25T09:40:00+00:00"
-  },
-  {
-   "title": "Oeko-Tex overhauls governance to align with new EU anti-greenwash laws",
-   "link": "https://www.just-style.com/news/eoko-tek-eu-greenwashing-laws/",
-   "summary": "Oeko-Tex is overhauling its governance structure to meet forthcoming EU regulations aimed at curbing misleading environmental claims.",
-   "source": "Just Style",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-08-25T08:59:34+00:00"
-  },
-  {
-   "title": "GLP-1’s impact on fashion’s reverse supply chain",
-   "link": "https://www.just-style.com/features/glp-1s-impact-on-fashions-reverse-supply-chain/",
-   "summary": "Is the fashion industry ready to keep up with the impact of GLP-1 medications on its reverse supply chain?",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-25T08:56:33+00:00"
-  },
-  {
-   "title": "US wants EU CSDDD to apply only to EU firms",
-   "link": "https://www.just-style.com/news/us-wants-eu-csddd-to-apply-only-to-eu-firms/",
-   "summary": "The US is pressing the EU to limit its CSDDD to companies operating in the EU, on concerns it adversely impacts US firms.",
-   "source": "Just Style",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-08-25T08:52:41+00:00"
-  },
-  {
-   "title": "Jobs at risk as Nike foam supplier offshores production",
-   "link": "https://www.just-style.com/news/jobs-at-risk-as-nike-foam-supplier-offshores-production/",
-   "summary": "Zotefoams, which supplies global brands including Nike has reportedly entered a consultation phase which could see 100 jobs at risk.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-25T08:51:12+00:00"
   },
   {
    "title": "Flapper-Era Silhouettes Return for the Festive Season",
@@ -315,120 +656,6 @@
    "published": "2026-08-25T00:00:00+00:00"
   },
   {
-   "title": "Vishal Mega Mart Reappoints Gunender Kapur as MD & CEO Until 2031",
-   "link": "https://apparelresources.com/business-news/retail/vishal-mega-mart-reappoints-gunender-kapur-md-ceo-2031/",
-   "summary": "Vishal Mega Mart has approved the reappointment of Gunender Kapur as Managing Director and Chief Executive Officer for a fresh five-year term, extending his tenure at the value retail chain until August 2031. Kapur’s new term will run from September 1, to August 31, 2031. The co…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-24T13:19:29+00:00"
-  },
-  {
-   "title": "Berry Hues Take Centre Stage for A/W 2026",
-   "link": "https://apparelresources.com/fashion-news/trends/berry-hues-take-centre-stage-w-2026/",
-   "summary": "Wine, merlot, burgundy, oxblood, the berry family is emerging as one of the defining palettes of autumn/winter 2026, and its appeal lies in its dual identity. It reads as a genuine colour statement while functioning almost like a neutral, sitting comfortably alongside black, gre…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-24T12:49:07+00:00"
-  },
-  {
-   "title": "Odette Opens 50th Store in Bengaluru",
-   "link": "https://apparelresources.com/business-news/retail/odette-opens-50th-store-bengaluru/",
-   "summary": "Homegrown fashion and lifestyle brand Odette has opened its 50th store in India, strengthening its offline retail presence with a new outlet at The Galleria Mall, Yelahanka, Bengaluru. The store marks the brand’s second outlet in the city and forms part of its expansion across k…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-24T12:27:26+00:00"
-  },
-  {
-   "title": "Checks Get a Modern Makeover for A/W 2026",
-   "link": "https://apparelresources.com/fashion-news/trends/checks-get-modern-makeover-w-2026/",
-   "summary": "Checks are returning as a key print for Autumn/Winter 2026, building on the heritage-led dressing that gained traction last season. The shift this year is largely in how the pattern is being styled. Rather than relying on a single checked garment, designers are layering checks a…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-24T12:13:18+00:00"
-  },
-  {
-   "title": "SNITCH Opens Five New Stores, Store Count Reaches 131",
-   "link": "https://apparelresources.com/business-news/retail/snitch-opens-five-new-stores-store-count-reaches-131/",
-   "summary": "SNITCH, a menswear brand, has opened five new stores in Kolkata, Pune, Nashik, Patiala and Noida In August as part of its offline retail expansion and omnichannel strategy. The new stores are located across metro and emerging markets. With these additions, SNITCH’s total store c…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-24T11:49:39+00:00"
-  },
-  {
-   "title": "Surat Weavers Cut Production as Polyester Yarn Prices Jump",
-   "link": "https://apparelresources.com/business-news/manufacturing/surat-weavers-cut-production-polyester-yarn-prices-jump/",
-   "summary": "Surat’s weaving industry has begun voluntarily cutting production as a sharp rise in polyester yarn prices has squeezed margins, with around 1.5 lakh powerlooms reducing output through weekly holidays and shorter working shifts, according to Vishnubhai Patel, former vice-preside…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-24T11:10:42+00:00"
-  },
-  {
-   "title": "ReFiber tackles India’s textile waste with nationwide recovery drive",
-   "link": "https://www.just-style.com/news/refibre-india-garment-collection-drive/",
-   "summary": "ReFiber, powered by OterRi, has launched a nationwide campaign to collect unused garments from consumers as part of an effort to address post-consumer textile waste.",
-   "source": "Just Style",
-   "regions": [
-    "Global",
-    "India"
-   ],
-   "published": "2026-08-24T10:32:19+00:00"
-  },
-  {
-   "title": "Ross Stores raises forecast after surge in Q2 sales and store openings",
-   "link": "https://www.just-style.com/news/ross-stores-2026-q2/",
-   "summary": "Ross Stores has raised its FY26 profit forecast after reporting a rise in Q2 sales and earnings, fuelled by accelerated store openings.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-24T09:49:01+00:00"
-  },
-  {
-   "title": "Week in review: The confidence gap behind soft apparel sales",
-   "link": "https://www.just-style.com/comment/week-in-review-the-confidence-gap-behind-soft-apparel-sales/",
-   "summary": "New research by Asos suggests some of apparel’s current weaknesses may come down to shopper hesitation, not just price or macro pressure.",
-   "source": "Just Style",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-08-24T09:18:53+00:00"
-  },
-  {
-   "title": "How fashion can navigate conflicting supply chain requirements",
-   "link": "https://www.just-style.com/interviews/how-fashion-can-navigate-conflicting-supply-chain-requirements/",
-   "summary": "Haelixa suggests a solution to conflicting legislation in China and the EU that leaves fashion brands struggling to comply with regulations.",
-   "source": "Just Style",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-08-24T09:18:15+00:00"
-  },
-  {
-   "title": "Boohoo fined $2.7m in France for misleading labelling on website",
-   "link": "https://www.just-style.com/news/boohoo-france-fine-labelling/",
-   "summary": "France’s consumer regulator has fined Boohoo €2.3m for “deceptive business practices,” including violations of product labelling rules.",
-   "source": "Just Style",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-08-24T08:56:02+00:00"
-  },
-  {
    "title": "Lalithaa Jewellery Mart shares shine on debut, list at 32 per cent premium over IPO price",
    "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/lalithaa-jewellery-mart-shares-shine-on-debut-list-at-32-per-cent-premium-over-ipo-price/133457079",
    "summary": "Lalithaa Jewellery Mart Share Price: Lalithaa Jewellery Mart made a remarkable entrance on Monday, entering the stock market with a strong premium listing. The initial public offering attracted significant interest from investors in all sectors. The funds raised are earmarked fo…",
@@ -489,46 +716,6 @@
    "published": "2026-08-22T02:58:31+00:00"
   },
   {
-   "title": "Reliance Brands appoints Shivani Goel as Vice President –Marketing",
-   "link": "https://apparelresources.com/business-news/retail/reliance-brands-appoints-shivani-goel-vice-president-marketing/",
-   "summary": "Shivani Goel has joined Reliance Brands Limited as Associate Vice President Marketing, where she will lead marketing and brand growth for a portfolio of global luxury and premium brands in India. In her new role, Goel will oversee the India marketing mandate for HUGO BOSS, Paul …",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-21T13:47:17+00:00"
-  },
-  {
-   "title": "Flipkart Faces Two Senior Exits Amid Profitability Push",
-   "link": "https://apparelresources.com/business-news/retail/flipkart-faces-two-senior-exits-amid-profitability-push/",
-   "summary": "Two senior executives at Walmart-backed e-commerce major Flipkart are set to exit the company, with Gunjan Bhartia, senior vice president of business finance, and Amer Hussain, vice president of supply chain for flipkart Minutes, stepping down from their roles. The exits come sh…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-21T13:31:20+00:00"
-  },
-  {
-   "title": "Nitin Spinners Targets Rs 3,800 Crore Revenue in FY27",
-   "link": "https://apparelresources.com/business-news/manufacturing/nitin-spinners-targets-rs-3800-crore-revenue-fy27/",
-   "summary": "Bhilwara-based textile manufacturer Nitin Spinners expects revenue of around Rs 3,800 crore (US $397.24 million) in FY27, supported by steady yarn demand, capacity expansion and stable yarn margins. The company reported an 83.6% year-on-year increase in Q1 FY27 net profit to Rs …",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-21T12:58:46+00:00"
-  },
-  {
-   "title": "Campus Activewear appoints Rakesh Thakur as CFO",
-   "link": "https://apparelresources.com/business-news/retail/campus-activewear-appoints-rakesh-thakur-cfo/",
-   "summary": "Sports and athleisure footwear company Campus Activewear has appointed Rakesh Thakur as its Chief Financial Officer (CFO) and Key Managerial Personnel (KMP), strengthening its leadership team as it focuses on profitable growth, financial discipline and business expansion. Thakur…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-21T12:45:37+00:00"
-  },
-  {
    "title": "Campus Activewear appoints Rakesh Thakur as chief financial officer",
    "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/sportswear/campus-activewear-appoints-rakesh-thakur-as-chief-financial-officer/133399260",
    "summary": "The appointment comes as Campus Activewear continues to report growth in its business. In Q1 FY27, the company recorded revenue of Rs 385.2 crore, up 12.2 per cent year-on-year, while sales volumes increased 11.7 per cent to 57.1 million pairs. Profit after tax rose 17.7 per cen…",
@@ -539,16 +726,6 @@
    "published": "2026-08-21T09:10:35+00:00"
   },
   {
-   "title": "AI can never take over human relationships, craft: Sabyasachi Mukherjee",
-   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/luxury/ai-can-never-take-over-human-relationships-craft-sabyasachi-mukherjee/133397987",
-   "summary": "Fashion designer Sabyasachi Mukherjee opened his new flagship store in New Delhi. He believes craftsmanship will outlast artificial intelligence, which should only support creativity. Mukherjee also celebrated his multi-year collaboration with The Metropolitan Museum of Art. Thi…",
-   "source": "ET Retail — Apparel & Fashion",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-21T08:12:13+00:00"
-  },
-  {
    "title": "Beyond the copilot: Scaling the agentic product development life cycle",
    "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle",
    "summary": "Only a few software teams are seeing real impact from incorporating AI. The key is launching an AI-driven redesign of the entire product development system, rather than just deploying new tools.",
@@ -557,46 +734,6 @@
     "Global"
    ],
    "published": "2026-08-21T00:00:00+00:00"
-  },
-  {
-   "title": "Kalyan Jewellers bets on regional jewellery brands to take on local players",
-   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/kalyan-jewellers-bets-on-regional-jewellery-brands-to-take-on-local-players/133372912",
-   "summary": "Kalyan Jewellers is expanding its strategy to include localized brands like Akshaya Thanga Maligai. This new brand will target value-conscious customers with traditional Tamil designs. The company is also focusing on its asset-light Franchisee-Owned, Company-Operated model for e…",
-   "source": "ET Retail — Apparel & Fashion",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-20T10:40:00+00:00"
-  },
-  {
-   "title": "Zaydn raises $681K to scale its Gen-Z sneaker business",
-   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/footwear/zaydn-raises-681k-to-scale-its-gen-z-sneaker-business/133367666",
-   "summary": "The brand targets Gen-Z with design-led, comfortable and affordable sneakers, supported by in-house manufacturing that gives it greater control over product quality, development and speed to market.",
-   "source": "ET Retail — Apparel & Fashion",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-20T06:58:39+00:00"
-  },
-  {
-   "title": "Coty sees weak quarterly profit, withholds annual forecasts in 'transition year'",
-   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/accessories/coty-sees-weak-quarterly-profit-withholds-annual-forecasts-in-transition-year/133366480",
-   "summary": "Coty sees weak quarterly profit, withholds annual forecasts in 'transition year'",
-   "source": "ET Retail — Apparel & Fashion",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-08-20T06:37:37+00:00"
-  },
-  {
-   "title": "Earning and sustaining trust in the age of AI",
-   "link": "https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai",
-   "summary": "Invesco President and CEO Andrew Schlossberg argues that AI should be part of a firm’s strategy, not on the sidelines, and that trust, once lost, is hard to win back.",
-   "source": "McKinsey & Company",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-08-20T00:00:00+00:00"
   }
  ]
 }
