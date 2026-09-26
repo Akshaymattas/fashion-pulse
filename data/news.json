@@ -1,7 +1,7 @@
 {
- "updated_at": "25 Sep 2026, 03:55 PM IST",
- "updated_at_iso": "2026-09-25T10:25:37.154647+00:00",
- "count": 62,
+ "updated_at": "26 Sep 2026, 03:34 PM IST",
+ "updated_at_iso": "2026-09-26T10:04:46.112392+00:00",
+ "count": 75,
  "reference_links": [
   {
    "name": "Statista — Apparel Market",
@@ -21,15 +21,249 @@
  ],
  "items": [
   {
-   "title": "Sephora Taps John Legend for Original Holiday Anthem",
-   "link": "https://wwd.com/beauty-industry-news/beauty-features/sephora-john-legend-holiday-shopping-song-1239259382/",
-   "summary": "Sephora Europe has enlisted the EGOT winner to pen an original song to commemorate the holiday shopping season.",
+   "title": "Elisabetta Franchi Spring 2027: Mixing It Up",
+   "link": "https://wwd.com/runway/spring-2027/milan/elisabetta-franchi/review/",
+   "summary": "Franchi let it rip, mixing cycling shorts with roomy tailored jackets, including a fine tuxedo style, and adding corset-inspired, cross-lacing to just about everything in this otherwise va-va-voom collection.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-26T08:39:09+00:00"
+  },
+  {
+   "title": "Colin Kaepernick Says He Still Wants to Return to the NFL",
+   "link": "https://wwd.com/footwear-news/shoe-features/colin-kaepernick-nfl-taking-a-knee-black-footwear-forum-1239222561/",
+   "summary": "The former 49ers quarterback joined Jemele Hill at Detroit’s Black Footwear Forum to discuss football, activism and his new memoir, “The Perilous Fight.”",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-26T06:00:00+00:00"
+  },
+  {
+   "title": "Pepe Jeans London opens three upgraded stores in Bengaluru",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/pepe-jeans-london-opens-three-upgraded-stores-in-bengaluru/134496813",
+   "summary": "Rakesh Jallipally, CEO, Pepe Jeans London (India), said, \"Bengaluru remains an important market for the company and that the upgraded stores are aimed at strengthening its retail presence and improving customer access to its denim and casualwear portfolio.\"",
+   "source": "ET Retail — Apparel & Fashion",
+   "regions": [
+    "Europe",
+    "India"
+   ],
+   "published": "2026-09-26T04:09:13+00:00"
+  },
+  {
+   "title": "PC Jeweller becomes debt-free after clearing dues of all 14 consortium banks",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/pc-jeweller-becomes-debt-free-after-clearing-dues-of-all-14-consortium-banks/134496377",
+   "summary": "PC Jeweller Ltd has successfully cleared its dues with 14 consortium banks, becoming completely debt-free. The company’s total debt was approximately Rs 3,000 crore before the settlement agreement. In September 2024, PC Jeweller opted for a one-time settlement to address its out…",
+   "source": "ET Retail — Apparel & Fashion",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-09-26T03:17:56+00:00"
+  },
+  {
+   "title": "Omara Ventures IPO: Designer jewellery brand's Rs 42-cr SME issue opens on Sep 30",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/omara-ventures-ipo-designer-jewellery-brands-rs-42-cr-sme-issue-opens-on-sep-30/134496350",
+   "summary": "The company also plans to use the IPO proceeds of Rs 2 crore each to renovate and expand its jewellery boutique, and step up marketing and promotional activities for its flagship brand, 'OMARA', and the remaining balance for general corporate purposes.",
+   "source": "ET Retail — Apparel & Fashion",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-09-26T03:14:09+00:00"
+  },
+  {
+   "title": "Decathlon sees double-digit sales growth, targets Rs 1,000 cr running sports biz in 4 years",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/sportswear/decathlon-sees-double-digit-sales-growth-targets-rs-1000-cr-running-sports-biz-in-4-years/134496205",
+   "summary": "The company recently expanded to the northeast region, with the opening of the first store in Guwahati, Assam. It is deepening its wholesale and reseller network across the region, including Shillong and other cities, he added.",
+   "source": "ET Retail — Apparel & Fashion",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-09-26T03:06:28+00:00"
+  },
+  {
+   "title": "Macy’s To Use AI for Better Inventory Management",
+   "link": "https://wwd.com/sourcing-journal/industry-news/macys-artificial-intelligence-supply-chain-costs-1239265511/",
+   "summary": "The company is eyeing to generate $235 million in supply chain-related savings by year-end.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-25T22:14:02+00:00"
+  },
+  {
+   "title": "EU’s New Greenwashing Rules Put Fashion’s Sustainability Claims in Crosshairs",
+   "link": "https://wwd.com/sourcing-journal/sustainability/eu-empowering-consumers-directive-greenwashing-1239265385/",
+   "summary": "As the Empowering Consumers for the Green Transition Directive takes effect, brands must back up environmental marketing with specific evidence—or risk silence becoming its own liability.",
    "source": "WWD",
    "regions": [
     "Europe",
     "Global"
    ],
-   "published": "2026-09-25T10:00:00+00:00"
+   "published": "2026-09-25T21:59:25+00:00"
+  },
+  {
+   "title": "India-US Trade Deal Nearly ‘Done and Dusted’ According to Official",
+   "link": "https://wwd.com/sourcing-journal/trade/india-us-trade-deal-nearing-completion-canada-tariffs-1239265488/",
+   "summary": "The long-awaited and painstakingly negotiated trade framework between the United States and India is on the precipice of completion.",
+   "source": "WWD",
+   "regions": [
+    "Global",
+    "India"
+   ],
+   "published": "2026-09-25T21:54:21+00:00"
+  },
+  {
+   "title": "Wise Words from Colin Kaepernick, D.M.C. and More at the 2026 Black Footwear Forum",
+   "link": "https://wwd.com/footwear-news/shoe-industry-news/2026-black-footwear-forum-overview-1239226460/",
+   "summary": "The 2026 Black Footwear Forum in Detroit gathered icons of the fashion industry and students alike for a series of conversations related to this year's conference theme: Rooted in CommUnity.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-25T21:27:32+00:00"
+  },
+  {
+   "title": "Inside Gianvito Rossi’s Joyful 20th Anniversary Party in Milan + What’s Ahead for Spring 2027",
+   "link": "https://wwd.com/footwear-news/shoe-industry-news/gianvito-rossi-20th-anniversary-party-milan-fashion-week-1239265003/",
+   "summary": "The Italian designer celebrated two decades of his namesake collection during Milan Fashion Week.",
+   "source": "WWD",
+   "regions": [
+    "Europe",
+    "Global"
+   ],
+   "published": "2026-09-25T20:55:37+00:00"
+  },
+  {
+   "title": "Queen Mary of Denmark Just Revived Her Toni Maticevski Airy White Dress",
+   "link": "https://wwd.com/pop-culture/celebrity-news/queen-mary-toni-maticevski-dress-carlsberg-foundation-1239264974/",
+   "summary": "The dress has been part of the Danish queen consort's wardrobe for years.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-25T20:48:16+00:00"
+  },
+  {
+   "title": "Bar CC, From the Crane Club Team, Is Letting the Cocktails Shine",
+   "link": "https://wwd.com/eye/lifestyle/bar-cc-cocktail-lounge-crane-club-1239259913/",
+   "summary": "The new upscale lounge space is in partnership with Tao Group Hospitality.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-25T20:36:39+00:00"
+  },
+  {
+   "title": "Analyst Predicts Nike Stock Could Fall to $30 After S&P 100 Drop",
+   "link": "https://wwd.com/footwear-news/shoe-industry-news/nike-stock-price-target-30-per-share-bofa-analyst-1239264721/",
+   "summary": "Bank of America analyst Lorraine Hutchinson cut Nike shares this week on an \"underperform\" rating of the stock.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-25T20:28:18+00:00"
+  },
+  {
+   "title": "Founder’s Dairy: How Sisterly Tribe’s Kristin Hars plans to grow the Swedish brand",
+   "link": "https://www.drapersonline.com/people/changing-roles/founders-dairy-how-sisterly-tribes-kristin-hars-plans-to-grow-the-swedish-brand",
+   "summary": "Drapers Founder’s Dairy: How Sisterly Tribe’s Kristin Hars plans to grow the Swedish brand Kristin Hars, founder of women’s activewear brand Sisterly Tribe, is scaling her business at pace. From US expansion with a new wholesale partner to adding new product categories, Hars rev…",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-09-25T15:18:00+00:00"
+  },
+  {
+   "title": "Independents see autumn demand build despite consumer caution",
+   "link": "https://www.drapersonline.com/news/independents-see-autumn-demand-build-despite-consumer-caution",
+   "summary": "Drapers Independents see autumn demand build despite consumer caution Fashion retail independents have reported a positive start to the autumn season, with many businesses recording sales increases, in the face of ongoing cost of living fears. The post Independents see autumn de…",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-09-25T15:07:12+00:00"
+  },
+  {
+   "title": "Editor’s comment: What is the secret sauce for successful fashion founders today?",
+   "link": "https://www.drapersonline.com/insight/comment/editors-comment-what-is-the-secret-sauce-for-successful-fashion-founders-today",
+   "summary": "Drapers Editor’s comment: What is the secret sauce for successful fashion founders today? Fashion retail has always had an abundance of entrepreneurs but in an increasingly competitive market, what is the recipe for success for the founders of fashion’s fastest-growing brands an…",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-09-25T13:56:00+00:00"
+  },
+  {
+   "title": "Uniqlo to open store in Bath",
+   "link": "https://www.drapersonline.com/news/uniqlo-to-open-store-in-bath",
+   "summary": "Drapers Uniqlo to open store in Bath Japanese fashion retailer Uniqlo is set to open a store at British Land’s Southgate shopping centre in Bath next spring/summer. The post Uniqlo to open store in Bath appeared first on Drapers .",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-09-25T12:08:53+00:00"
+  },
+  {
+   "title": "Why Ruching Is Redefining Office Wear for AW26",
+   "link": "https://apparelresources.com/fashion-news/trends/ruching-redefining-office-wear-aw26/",
+   "summary": "Workwear has spent the past few seasons shaking off its reputation for being the dullest category on the runway, and AW26 pushes that further with a very specific idea: drape and ruching as structure, not softness. Rather than treating draped fabric as eveningwear language borro…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-09-25T11:54:18+00:00"
+  },
+  {
+   "title": "Source Fashion and Fashion-Enter team up to launch Manchester manufacturing event",
+   "link": "https://www.drapersonline.com/news/source-fashion-and-fashion-enter-team-up-to-launch-manchester-manufacturing-event",
+   "summary": "Drapers Source Fashion and Fashion-Enter team up to launch Manchester manufacturing event Source Fashion, Fashion-Enter and the Association of Textile and Apparel Manufacturers (ATMF) are set to launch a new regional manufacturing event in Manchester on 4 November. The post Sour…",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-09-25T11:20:11+00:00"
+  },
+  {
+   "title": "The Autumn/Winter 2026 Palette Breaks Its Own Rules",
+   "link": "https://apparelresources.com/fashion-news/trends/autumn-winter-2026-palette-breaks-rules/",
+   "summary": "Every autumn/winter season carries its own colour argument, and AW26’s is a genuinely mixed one. Runways from New York to Paris to Mumbai pulled in two directions at once, deeper, saturated tones like wine, bottle green and ochre on one end, unexpected brights like butter yellow…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "Europe",
+    "India"
+   ],
+   "published": "2026-09-25T10:50:45+00:00"
+  },
+  {
+   "title": "Cooling Bangladesh apparel factories pays for itself in 4 years",
+   "link": "https://www.just-style.com/news/bangladesh-garment-factory-heat-cooling/",
+   "summary": "A research report says investments to reduce heat in Bangladesh garment factories could recover their costs within one to four years.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-25T09:50:59+00:00"
+  },
+  {
+   "title": "China chases reputation for ‘quality’ on Made ‘cheap’ in China rejection",
+   "link": "https://www.just-style.com/news/china-chases-reputation-for-quality-on-made-cheap-in-china-rejection/",
+   "summary": "China is evolving its apparel manufacturing offer thanks to AI and a focus on technical textiles as it looks to shake off its reputation as a \"cheap\" clothing provider.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-25T09:42:33+00:00"
+  },
+  {
+   "title": "Colour Expertise Is Getting Scarce, Software Has to Get Smarter",
+   "link": "https://www.just-style.com/comment/colour-expertise-is-getting-scarce-software-has-to-get-smarter/",
+   "summary": "",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-25T09:24:41+00:00"
   },
   {
    "title": "Accel India, 360 ONE Group sell over 4 per cent stake in BlueStone for Rs 513 crore",
@@ -42,96 +276,54 @@
    "published": "2026-09-25T08:49:32+00:00"
   },
   {
-   "title": "Roberto Cavalli Spring 2027: Fashion Maxxing",
-   "link": "https://wwd.com/runway/spring-2027/milan/roberto-cavalli/review/",
-   "summary": "\"Everything is extremely sexy and happy and beautiful,\" said Fausto Puglisi, whose collection was like a burst of fireworks on the runway.",
-   "source": "WWD",
+   "title": "Drapers daily news 25/09/2026",
+   "link": "https://www.drapersonline.com/news/drapers-daily-news-15-09-2026",
+   "summary": "Drapers Drapers daily news 25/09/2026 Here are today's key fashion retail news stories… - Mango names new chief retail officer drapersonline.com/lsmv - Arne signs third UK store drapersonline.com/gofr - Tesco's F&F trials in-store virtual try-on drapersonline.com/w931 - Governme…",
+   "source": "Drapers",
    "regions": [
-    "Global"
+    "Europe"
    ],
-   "published": "2026-09-25T07:53:58+00:00"
+   "published": "2026-09-25T08:12:25+00:00"
   },
   {
-   "title": "Could Cardi B Win Best Hair This Fashion Month?",
-   "link": "https://wwd.com/pop-culture/celebrity-news/cardi-b-fashion-week-hair-1239261762/",
-   "summary": "See all looks she styled during the spring 2027 runway season.",
-   "source": "WWD",
+   "title": "Mango names new chief retail officer",
+   "link": "https://www.drapersonline.com/news/mango-names-new-chief-retail-officer",
+   "summary": "Drapers Mango names new chief retail officer Spanish fashion giant Mango has named former H&M executive Katarzyna Niemirowicz Majtas as its new chief retail officer. The post Mango names new chief retail officer appeared first on Drapers .",
+   "source": "Drapers",
    "regions": [
-    "Global"
+    "Europe"
    ],
-   "published": "2026-09-25T05:30:00+00:00"
+   "published": "2026-09-25T07:17:37+00:00"
   },
   {
-   "title": "EXCLUSIVE: Jessica McCormack to Join Heritage Jewelry Houses, Opening a Store on Place Vendôme",
-   "link": "https://wwd.com/accessories-news/jewelry/jessica-mccormack-jeweler-first-store-place-vendome-paris-1239258635/",
-   "summary": "The upstart diamond jeweler will be moving into Place Vendôme in Paris in early 2027, its first European unit outside the U.K.",
-   "source": "WWD",
+   "title": "Government urged to ‘unlock growth’ for West End",
+   "link": "https://www.drapersonline.com/news/government-urged-to-unlock-growth-for-west-end",
+   "summary": "Drapers Government urged to ‘unlock growth’ for West End The New West End Company (NWEC), which represents more than 100 streets and 800 businesses around Oxford Street, Regent Street, Bond Street and Mayfair, has called on the government to support policy ambitions to \"fuel a d…",
+   "source": "Drapers",
    "regions": [
-    "Europe",
-    "Global"
+    "Europe"
    ],
-   "published": "2026-09-25T04:01:00+00:00"
+   "published": "2026-09-25T07:04:35+00:00"
   },
   {
-   "title": "Locus Solution Improves Fulfillment Accuracy",
-   "link": "https://wwd.com/sourcing-journal/industry-news/locus-solution-improves-online-fulfillment-accuracy-1239260013/",
-   "summary": "The platform shows delivery options to customers that better reflect what the network can support.",
-   "source": "WWD",
+   "title": "First look: Margaret Howell opens first shop in South Korea",
+   "link": "https://www.drapersonline.com/news/first-look-margaret-howell-opens-first-shop-in-south-korea",
+   "summary": "Drapers First look: Margaret Howell opens first shop in South Korea British minimalist brand Margaret Howell has opened its first shop in South Korea as part of a phased retail expansion in the market. The post First look: Margaret Howell opens first shop in South Korea appeared…",
+   "source": "Drapers",
    "regions": [
-    "Global"
+    "Europe"
    ],
-   "published": "2026-09-25T04:00:00+00:00"
+   "published": "2026-09-25T06:57:27+00:00"
   },
   {
-   "title": "Chanel Names Lucia Pieroni to Top Makeup Role",
-   "link": "https://wwd.com/beauty-industry-news/color-cosmetics/chanel-names-lucia-pieroni-top-makeup-role-1239260255/",
-   "summary": "Pieroni is now the house’s creative makeup director.",
-   "source": "WWD",
+   "title": "Tesco’s F&F trials in-store virtual try-on",
+   "link": "https://www.drapersonline.com/news/tescos-ff-trials-in-store-virtual-try-on",
+   "summary": "Drapers Tesco’s F&F trials in-store virtual try-on Tesco’s clothing brand F&F is trialling new virtual try-on technology across 1,500 products at its Sandhurst Extra store, Berkshire. The post Tesco’s F&F trials in-store virtual try-on appeared first on Drapers .",
+   "source": "Drapers",
    "regions": [
-    "Global"
+    "Europe"
    ],
-   "published": "2026-09-25T04:00:00+00:00"
-  },
-  {
-   "title": "Melania Trump is All Wrapped Up in A Bow for State Dinner for China’s President Xi Jinping",
-   "link": "https://wwd.com/pop-culture/culture-news/melania-trump-bow-state-dinner-china-president-xi-jinping-1239261914/",
-   "summary": "Ivanka Trump, Lauren Sanchez, Apple's Tim Cook, Open AI's Sam Altman and Citigroup's Jane Fraser turned up at the black tie affair.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-25T01:00:25+00:00"
-  },
-  {
-   "title": "Walmart Unveils $45 Cashmere Sweater, Bringing Mongolian Luxury to the Masses",
-   "link": "https://wwd.com/shop/shop-fashion/walmart-cashmere-sweater-men-women-deal-price-buy-online-1239261984/",
-   "summary": "The cashmere crewneck can be found as part of the retailer's in-house Free Assembly brand, known for elevated basics and trend-forward pieces for men and women",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-25T00:47:00+00:00"
-  },
-  {
-   "title": "Kate Moss Brings Her Iconic Festival Footwear to the Present Day for Hunter’s 170th Anniversary",
-   "link": "https://wwd.com/footwear-news/shoe-trends/kate-moss-hunter-boots-170th-anniversary-1239255613/",
-   "summary": "Moss famously wore Hunter boots at Glastonbury Festival in 2005.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-24T23:00:00+00:00"
-  },
-  {
-   "title": "H&M-Backed Cotton Project Explores Soil-Free Farming",
-   "link": "https://wwd.com/sourcing-journal/sj-denim/hm-magteech-cotton-project-explores-soil-free-farming-1239257830/",
-   "summary": "Magtech and H&M Group’s Circular Innovation Lab are working together to scale soil-free cotton production.",
-   "source": "WWD",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-09-24T22:30:00+00:00"
+   "published": "2026-09-25T06:36:28+00:00"
   },
   {
    "title": "Utility Meets Tailoring As Workwear-derived Layers Turn Refined",
@@ -248,9 +440,9 @@
    "published": "2026-09-24T00:47:53+00:00"
   },
   {
-   "title": "Billion-dollar beauty: The odds of scaling a breakout brand",
-   "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/billion-dollar-beauty-the-odds-of-scaling-a-breakout-brand",
-   "summary": "Our new analysis reveals the odds of reaching $1 billion in sales—and how the paths to that milestone differ by category and ownership.",
+   "title": "Democratized superintelligence is coming: The world needs to get ready",
+   "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/democratized-superintelligence-is-coming-the-world-needs-to-get-ready",
+   "summary": "Bret Taylor, Sierra cofounder and OpenAI chair, believes AI’s near-term cybersecurity risks are real but solvable, and its greater power lies in delivering the world’s best knowledge to everyone.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -258,9 +450,9 @@
    "published": "2026-09-24T00:00:00+00:00"
   },
   {
-   "title": "Democratized superintelligence is coming: The world needs to get ready",
-   "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/democratized-superintelligence-is-coming-the-world-needs-to-get-ready",
-   "summary": "Bret Taylor, Sierra cofounder and OpenAI chair, believes AI’s near-term cybersecurity risks are real but solvable, and its greater power lies in delivering the world’s best knowledge to everyone.",
+   "title": "Billion-dollar beauty: The odds of scaling a breakout brand",
+   "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/billion-dollar-beauty-the-odds-of-scaling-a-breakout-brand",
+   "summary": "Our new analysis reveals the odds of reaching $1 billion in sales—and how the paths to that milestone differ by category and ownership.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -288,16 +480,6 @@
    "published": "2026-09-23T10:43:44+00:00"
   },
   {
-   "title": "Challenging consumer environment pressures JD H1 sales, profit",
-   "link": "https://www.just-style.com/news/jd-sports-hy27-result/",
-   "summary": "JD Sports Fashion has delivered a \"resilient\" performance in its H1 results, navigating a challenging global trading environment and a downturn in consumer spending.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-23T10:42:53+00:00"
-  },
-  {
    "title": "Archival Prints Make a Comeback for 2026",
    "link": "https://apparelresources.com/fashion-news/trends/archival-prints-make-comeback-2026/",
    "summary": "Fashion’s love affair with its own history has moved from occasional homage to a defining creative strategy this year, with houses digging into their own archives for their strongest storytelling. The trend spans both runway and retail, and 2026 has been its breakout year. The c…",
@@ -316,26 +498,6 @@
     "India"
    ],
    "published": "2026-09-23T09:59:24+00:00"
-  },
-  {
-   "title": "US lawmaker introduces ‘first-of-its-kind’ textile waste bill",
-   "link": "https://www.just-style.com/news/us-lawmaker-introduces-first-of-its-kind-textile-waste-bill/",
-   "summary": "US Congresswoman Chellie Pingree has introduced legislation that would address the harmful impacts of fast fashion-driven waste.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-23T09:27:51+00:00"
-  },
-  {
-   "title": "It’s OK to feel unsure about Agentic AI, say Lectra bosses on Apogy launch",
-   "link": "https://www.just-style.com/news/its-ok-to-feel-unsure-about-agentic-ai-say-lectra-bosses-on-apogy-launch/",
-   "summary": "Lectra VP of offer strategy, Nicolas Favreau, says gradual adoption of Agentic AI is possible and can quell fears of having to suddenly adapt business processes entirely.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-23T09:15:30+00:00"
   },
   {
    "title": "Indian Walker raises pre-seed round at 20 crore post-money valuation from Palette Wealth Management",
@@ -368,9 +530,9 @@
    "published": "2026-09-23T02:13:47+00:00"
   },
   {
-   "title": "Harnessing AI to make mining safer",
-   "link": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
-   "summary": "AI could improve both safety and productivity by anticipating problems before they arise, detecting worker fatigue, and automating dangerous tasks.",
+   "title": "Maintenance meets AI: A proven approach for asset-heavy industries",
+   "link": "https://www.mckinsey.com/capabilities/operations/our-insights/maintenance-meets-ai-a-proven-approach-for-asset-heavy-industries",
+   "summary": "Embedding the latest AI and technology within day-to-day operations is transforming maintenance from a cost center into a significant driver of value.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -378,9 +540,9 @@
    "published": "2026-09-23T00:00:00+00:00"
   },
   {
-   "title": "Maintenance meets AI: A proven approach for asset-heavy industries",
-   "link": "https://www.mckinsey.com/capabilities/operations/our-insights/maintenance-meets-ai-a-proven-approach-for-asset-heavy-industries",
-   "summary": "Embedding the latest AI and technology within day-to-day operations is transforming maintenance from a cost center into a significant driver of value.",
+   "title": "Harnessing AI to make mining safer",
+   "link": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
+   "summary": "AI could improve both safety and productivity by anticipating problems before they arise, detecting worker fatigue, and automating dangerous tasks.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -502,7 +664,7 @@
   {
    "title": "Value is the compass. Consumers set the pace.",
    "link": "https://www.mckinsey.com/cn/our-insights/our-insights/value-is-the-compass-consumers-set-the-pace",
-   "summary": "In the 10th edition of McKinsey’s automotive consumer survey, China’s car buyers reveal where value is heading—and why the road ahead is exciting for consumers everywhere.",
+   "summary": "The 10th edition of McKinsey’s automotive consumer survey: China’s car buyers reveal where value is heading—and why the road ahead is exciting for consumers everywhere.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -618,36 +780,6 @@
     "India"
    ],
    "published": "2026-09-19T10:49:47+00:00"
-  },
-  {
-   "title": "ABFRL Acquires Remaining Stake in Imperial Online Services",
-   "link": "https://apparelresources.com/business-news/retail/abfrl-acquires-remaining-stake-imperial-online-services/",
-   "summary": "Aditya Birla Fashion and Retail Limited (ABFRL) has acquired the remaining 15.62% stake in Imperial Online Services Private Limited, taking its ownership in the fashion and apparel company to 100%. The acquisition was completed through ABFRL’s wholly owned subsidiary, Aditya Bir…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-09-19T10:41:33+00:00"
-  },
-  {
-   "title": "Myntra Launches Italian Fashion Brand Sisley in India",
-   "link": "https://apparelresources.com/business-news/retail/myntra-launches-italian-fashion-brand-sisley-india/",
-   "summary": "Myntra has launched Italian fashion brand Sisley, part of the Benetton Group, on its platform as the brand expands its presence in the Indian market. The offering includes Sisley’s latest collection for men and women, featuring T-shirts, shirts, tops, knitwear, trousers, jeans, …",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-09-19T10:34:45+00:00"
-  },
-  {
-   "title": "Apparel exporters rush to close spring '27 US orders",
-   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/apparel-exporters-rush-to-close-spring-27-us-orders/134347040",
-   "summary": "India's apparel exports, which help stock the shelves of major US retailers, currently face 10% tariffs in America. The looming threat of tariff escalations has set off a fresh scramble across labour-intensive sectors even as India's merchandise exports posted a sharp recovery i…",
-   "source": "ET Retail — Apparel & Fashion",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-09-19T03:06:47+00:00"
   }
  ]
 }
