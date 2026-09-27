@@ -1,7 +1,7 @@
 {
- "updated_at": "26 Sep 2026, 03:34 PM IST",
- "updated_at_iso": "2026-09-26T10:04:46.112392+00:00",
- "count": 75,
+ "updated_at": "27 Sep 2026, 04:10 PM IST",
+ "updated_at_iso": "2026-09-27T10:40:15.742243+00:00",
+ "count": 72,
  "reference_links": [
   {
    "name": "Statista — Apparel Market",
@@ -21,24 +21,136 @@
  ],
  "items": [
   {
-   "title": "Elisabetta Franchi Spring 2027: Mixing It Up",
-   "link": "https://wwd.com/runway/spring-2027/milan/elisabetta-franchi/review/",
-   "summary": "Franchi let it rip, mixing cycling shorts with roomy tailored jackets, including a fine tuxedo style, and adding corset-inspired, cross-lacing to just about everything in this otherwise va-va-voom collection.",
+   "title": "Ann Demeulemeester Hosts Book Signing for ‘Print’ in Milan",
+   "link": "https://wwd.com/fashion-news/fashion-scoops/ann-demeulemeester-book-signing-print-milan-1239279075/",
+   "summary": "The coffee table book, published by Hannibal, retraces Demeulemeester’s career through fashion show invitations.",
    "source": "WWD",
    "regions": [
+    "Europe",
     "Global"
    ],
-   "published": "2026-09-26T08:39:09+00:00"
+   "published": "2026-09-27T09:00:59+00:00"
   },
   {
-   "title": "Colin Kaepernick Says He Still Wants to Return to the NFL",
-   "link": "https://wwd.com/footwear-news/shoe-features/colin-kaepernick-nfl-taking-a-knee-black-footwear-forum-1239222561/",
-   "summary": "The former 49ers quarterback joined Jemele Hill at Detroit’s Black Footwear Forum to discuss football, activism and his new memoir, “The Perilous Fight.”",
+   "title": "The Big Topic at Zalando’s ‘Partner Day’: What AI Can — and Can’t — Do for Online Fashion",
+   "link": "https://wwd.com/business-news/technology/zalando-partner-day-what-ai-can-and-cant-do-for-fashion-1239280107/",
+   "summary": "At an event for brand partners that Zalando, one of Europe's largest online fashion retailers, holds annually, company insiders explained how they are using AI today to save money, create content and analyze customer data. They also talked about what AI can't do yet in the fashi…",
+   "source": "WWD",
+   "regions": [
+    "Europe",
+    "Global"
+   ],
+   "published": "2026-09-27T01:50:00+00:00"
+  },
+  {
+   "title": "Bottega Veneta Spring 2027: Lightening Up",
+   "link": "https://wwd.com/runway/spring-2027/milan/bottega-veneta/review/",
+   "summary": "Louise Trotter eased up on woven leather and leaned into lighter fabrics, Venetian lace and other homespun touches.",
    "source": "WWD",
    "regions": [
     "Global"
    ],
-   "published": "2026-09-26T06:00:00+00:00"
+   "published": "2026-09-26T21:08:14+00:00"
+  },
+  {
+   "title": "Marco Rambaldi Spring 2027: There’s No Place Like Home",
+   "link": "https://wwd.com/runway/spring-2027/milan/marco-rambaldi/review/",
+   "summary": "Marco Rambaldi continued his exploration of intimate spaces, and relationships, using the home as inspiration for this youthful, laid-back collection.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-26T20:32:24+00:00"
+  },
+  {
+   "title": "Act N.1 Spring 2027: Twist But Don’t Shout",
+   "link": "https://wwd.com/runway/spring-2027/milan/act-n-1/review/",
+   "summary": "Luca Lin tweaked wardrobe staples with twists and imperfections for a not-so-ordinary yet relaxed take on tailoring.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-26T18:36:39+00:00"
+  },
+  {
+   "title": "Meet Timisola Shasanya, the Winner of the Inaugural Sozzani Award",
+   "link": "https://wwd.com/fashion-news/fashion-features/sozzani-award-inaugural-prize-timisola-shasanya-1239280427/",
+   "summary": "The menswear designer is receiving a 15,000-euro scholarship.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-26T18:07:51+00:00"
+  },
+  {
+   "title": "Dolce & Gabbana Spring 2027: Sicilian Extravagance",
+   "link": "https://wwd.com/runway/spring-2027/milan/dolce-gabbana/review/",
+   "summary": "Domenico Dolce and Stefano Gabbana endorsed the concept of freedom of choice, randomly mixing and matching patterns and textures, in a collection that telegraphed playfulness and joy.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-26T18:03:00+00:00"
+  },
+  {
+   "title": "MSGM Spring 2027: Stars, Stripes — and Zing",
+   "link": "https://wwd.com/runway/spring-2027/milan/msgm/review/",
+   "summary": "Massimo Giorgetti debuted a collaboration with the late Italian pop artist Mario Schifano, whose works felt right at home amid so many vibrant colors and prints.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-26T16:20:42+00:00"
+  },
+  {
+   "title": "Ermanno Scervino Spring 2027: All That Glitters",
+   "link": "https://wwd.com/runway/spring-2027/milan/ermanno-scervino/review/",
+   "summary": "Ermanno Scervino swiped the gold frogging from 18th century pirate coats, and The Beatles' Sgt. Pepper's jackets, using it across a collection that was brimming with fashion treasures.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-26T16:17:16+00:00"
+  },
+  {
+   "title": "Ferragamo Spring 2027: Pocket Calls",
+   "link": "https://wwd.com/runway/spring-2027/milan/salvatore-ferragamo/review/",
+   "summary": "Maximilian Davis gave safari style a sensual spin in one of his strongest collections yet.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-26T14:31:58+00:00"
+  },
+  {
+   "title": "The Bomber Jacket Grows Up",
+   "link": "https://apparelresources.com/fashion-news/trends/bomber-jacket-grows/",
+   "summary": "There was a stretch, not too long ago, when the bomber jacket meant sporty, zip-up, ribbed at the cuffs, done. That version hasn’t disappeared, but it’s no longer the only version and that shift is the real story of the bomber’s Fall 2026 comeback. According to stylist and trend…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-09-26T11:16:23+00:00"
+  },
+  {
+   "title": "Denim Doesn’t Pick a Side This Autumn Season",
+   "link": "https://apparelresources.com/fashion-news/trends/denim-doesnt-pick-side-autumn-season/",
+   "summary": "If Fall 2026’s runways prove anything about denim, it’s that the fabric has stopped trying to have one story. For a category that spent the better part of a decade oscillating between skinny and wide, indigo and everything-but-indigo, this season’s collections suggest the pendul…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-09-26T10:14:59+00:00"
+  },
+  {
+   "title": "Baanganga Gold & Diamond files DRHP for Rs 720 crore IPO, fresh issue pegged at Rs 540 crore",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/baanganga-gold-diamond-files-drhp-for-rs-720-crore-ipo-fresh-issue-pegged-at-rs-540-crore/134501722",
+   "summary": "Baanganga Gold & Diamond has filed its DRHP for an IPO comprising a fresh issue of up to ₹540 crore and OFS of up to ₹180 crore. The jewellery manufacturer plans to use fresh proceeds mainly for working capital requirements.",
+   "source": "ET Retail — Apparel & Fashion",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-09-26T09:45:52+00:00"
   },
   {
    "title": "Pepe Jeans London opens three upgraded stores in Bengaluru",
@@ -80,89 +192,6 @@
     "India"
    ],
    "published": "2026-09-26T03:06:28+00:00"
-  },
-  {
-   "title": "Macy’s To Use AI for Better Inventory Management",
-   "link": "https://wwd.com/sourcing-journal/industry-news/macys-artificial-intelligence-supply-chain-costs-1239265511/",
-   "summary": "The company is eyeing to generate $235 million in supply chain-related savings by year-end.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-25T22:14:02+00:00"
-  },
-  {
-   "title": "EU’s New Greenwashing Rules Put Fashion’s Sustainability Claims in Crosshairs",
-   "link": "https://wwd.com/sourcing-journal/sustainability/eu-empowering-consumers-directive-greenwashing-1239265385/",
-   "summary": "As the Empowering Consumers for the Green Transition Directive takes effect, brands must back up environmental marketing with specific evidence—or risk silence becoming its own liability.",
-   "source": "WWD",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-09-25T21:59:25+00:00"
-  },
-  {
-   "title": "India-US Trade Deal Nearly ‘Done and Dusted’ According to Official",
-   "link": "https://wwd.com/sourcing-journal/trade/india-us-trade-deal-nearing-completion-canada-tariffs-1239265488/",
-   "summary": "The long-awaited and painstakingly negotiated trade framework between the United States and India is on the precipice of completion.",
-   "source": "WWD",
-   "regions": [
-    "Global",
-    "India"
-   ],
-   "published": "2026-09-25T21:54:21+00:00"
-  },
-  {
-   "title": "Wise Words from Colin Kaepernick, D.M.C. and More at the 2026 Black Footwear Forum",
-   "link": "https://wwd.com/footwear-news/shoe-industry-news/2026-black-footwear-forum-overview-1239226460/",
-   "summary": "The 2026 Black Footwear Forum in Detroit gathered icons of the fashion industry and students alike for a series of conversations related to this year's conference theme: Rooted in CommUnity.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-25T21:27:32+00:00"
-  },
-  {
-   "title": "Inside Gianvito Rossi’s Joyful 20th Anniversary Party in Milan + What’s Ahead for Spring 2027",
-   "link": "https://wwd.com/footwear-news/shoe-industry-news/gianvito-rossi-20th-anniversary-party-milan-fashion-week-1239265003/",
-   "summary": "The Italian designer celebrated two decades of his namesake collection during Milan Fashion Week.",
-   "source": "WWD",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-09-25T20:55:37+00:00"
-  },
-  {
-   "title": "Queen Mary of Denmark Just Revived Her Toni Maticevski Airy White Dress",
-   "link": "https://wwd.com/pop-culture/celebrity-news/queen-mary-toni-maticevski-dress-carlsberg-foundation-1239264974/",
-   "summary": "The dress has been part of the Danish queen consort's wardrobe for years.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-25T20:48:16+00:00"
-  },
-  {
-   "title": "Bar CC, From the Crane Club Team, Is Letting the Cocktails Shine",
-   "link": "https://wwd.com/eye/lifestyle/bar-cc-cocktail-lounge-crane-club-1239259913/",
-   "summary": "The new upscale lounge space is in partnership with Tao Group Hospitality.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-25T20:36:39+00:00"
-  },
-  {
-   "title": "Analyst Predicts Nike Stock Could Fall to $30 After S&P 100 Drop",
-   "link": "https://wwd.com/footwear-news/shoe-industry-news/nike-stock-price-target-30-per-share-bofa-analyst-1239264721/",
-   "summary": "Bank of America analyst Lorraine Hutchinson cut Nike shares this week on an \"underperform\" rating of the stock.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-25T20:28:18+00:00"
   },
   {
    "title": "Founder’s Dairy: How Sisterly Tribe’s Kristin Hars plans to grow the Swedish brand",
@@ -440,9 +469,9 @@
    "published": "2026-09-24T00:47:53+00:00"
   },
   {
-   "title": "Democratized superintelligence is coming: The world needs to get ready",
-   "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/democratized-superintelligence-is-coming-the-world-needs-to-get-ready",
-   "summary": "Bret Taylor, Sierra cofounder and OpenAI chair, believes AI’s near-term cybersecurity risks are real but solvable, and its greater power lies in delivering the world’s best knowledge to everyone.",
+   "title": "Billion-dollar beauty: The odds of scaling a breakout brand",
+   "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/billion-dollar-beauty-the-odds-of-scaling-a-breakout-brand",
+   "summary": "Our new analysis reveals the odds of reaching $1 billion in sales—and how the paths to that milestone differ by category and ownership.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -450,9 +479,9 @@
    "published": "2026-09-24T00:00:00+00:00"
   },
   {
-   "title": "Billion-dollar beauty: The odds of scaling a breakout brand",
-   "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/billion-dollar-beauty-the-odds-of-scaling-a-breakout-brand",
-   "summary": "Our new analysis reveals the odds of reaching $1 billion in sales—and how the paths to that milestone differ by category and ownership.",
+   "title": "Democratized superintelligence is coming: The world needs to get ready",
+   "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/democratized-superintelligence-is-coming-the-world-needs-to-get-ready",
+   "summary": "Bret Taylor, Sierra cofounder and OpenAI chair, believes AI’s near-term cybersecurity risks are real but solvable, and its greater power lies in delivering the world’s best knowledge to everyone.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -530,9 +559,9 @@
    "published": "2026-09-23T02:13:47+00:00"
   },
   {
-   "title": "Maintenance meets AI: A proven approach for asset-heavy industries",
-   "link": "https://www.mckinsey.com/capabilities/operations/our-insights/maintenance-meets-ai-a-proven-approach-for-asset-heavy-industries",
-   "summary": "Embedding the latest AI and technology within day-to-day operations is transforming maintenance from a cost center into a significant driver of value.",
+   "title": "Harnessing AI to make mining safer",
+   "link": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
+   "summary": "AI could improve both safety and productivity by anticipating problems before they arise, detecting worker fatigue, and automating dangerous tasks.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -540,9 +569,9 @@
    "published": "2026-09-23T00:00:00+00:00"
   },
   {
-   "title": "Harnessing AI to make mining safer",
-   "link": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
-   "summary": "AI could improve both safety and productivity by anticipating problems before they arise, detecting worker fatigue, and automating dangerous tasks.",
+   "title": "Maintenance meets AI: A proven approach for asset-heavy industries",
+   "link": "https://www.mckinsey.com/capabilities/operations/our-insights/maintenance-meets-ai-a-proven-approach-for-asset-heavy-industries",
+   "summary": "Embedding the latest AI and technology within day-to-day operations is transforming maintenance from a cost center into a significant driver of value.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -702,16 +731,6 @@
    "published": "2026-09-21T03:32:08+00:00"
   },
   {
-   "title": "Titan open to acquiring smaller watch brands, sees strong growth in premium segment",
-   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/accessories/titan-open-to-acquiring-smaller-watch-brands-sees-strong-growth-in-premium-segment/134378678",
-   "summary": "Titan Company is exploring acquisitions and investments in emerging watch brands. The company anticipates a strong festive season driven by healthy consumer demand. Titan aims to become a significant global player in the watchmaking industry. Premium watch segments are experienc…",
-   "source": "ET Retail — Apparel & Fashion",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-09-21T02:59:31+00:00"
-  },
-  {
    "title": "WIRED: The AI playbook top companies use",
    "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/wired-the-ai-playbook-top-companies-use",
    "summary": "WIRED’s Katie Drummond talks with McKinsey’s Dan Swan about why capturing AI’s full potential requires companies to move beyond experimentation and fundamentally rewire their businesses.",
@@ -730,56 +749,6 @@
     "Global"
    ],
    "published": "2026-09-21T00:00:00+00:00"
-  },
-  {
-   "title": "Sportking India to Invest Rs 1,000 Crore in Odisha Spinning Plant",
-   "link": "https://apparelresources.com/business-news/manufacturing/sportking-india-invest-rs-1000-crore-odisha-spinning-plant/",
-   "summary": "Sportking India is set to establish a greenfield spinning plant in Odisha’s Khordha district with an investment of around Rs 1,000 crore. Commercial operations at the facility are planned to begin in the third quarter of the 2026-27 financial year. Land for the project has alrea…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-09-19T12:32:48+00:00"
-  },
-  {
-   "title": "CITI Seeks Urgent Action on US Textile Tariffs",
-   "link": "https://apparelresources.com/business-news/manufacturing/citi-seeks-urgent-action-us-textile-tariffs/",
-   "summary": "The Confederation of Indian Textile Industry (CITI) has raised concerns over the potential impact on India’s textile and apparel exports following the signing of the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 by the US President. According to the industry body, ad…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-09-19T12:30:07+00:00"
-  },
-  {
-   "title": "Quarter-Zips Are Redefining the Fall 2026 Sweater",
-   "link": "https://apparelresources.com/fashion-news/trends/quarter-zips-redefining-fall-2026-sweater/",
-   "summary": "Quarter-zip sweaters are moving beyond their long-standing association with golf, corporate wardrobes and performance wear to emerge as a notable knitwear silhouette for Fall 2026. Once primarily functional, the zip-neck sweater is being reworked through softer knits, relaxed pr…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-09-19T11:29:54+00:00"
-  },
-  {
-   "title": "Contrast Takes Centre Stage As Colour Blocking Enters The A/W 2026 Wardrobe",
-   "link": "https://apparelresources.com/fashion-news/trends/contrast-takes-centre-stage-colour-blocking-enters-w-2026-wardrobe/",
-   "summary": "The beige era is losing ground. Fall 2026 is a season of saturated colour, and colour blocking is the device carrying it. In India the technique is arriving less on the ready-to-wear ramp and more in couture, festive wear and the designer catalogues that dress the wedding season…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-09-19T11:23:04+00:00"
-  },
-  {
-   "title": "Global Standards Launches GRTS Textile Processing Standard",
-   "link": "https://apparelresources.com/business-news/manufacturing/global-standards-launches-grts-textile-processing-standard/",
-   "summary": "Global Standards has launched the Global Responsible Textile Standard (GRTS), a new textile processing standard covering products made from a wider range of plant, animal, synthetic, man-made cellulosic and recycled fibres. Developed from decades of experience with the Global Or…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-09-19T10:49:47+00:00"
   }
  ]
 }
