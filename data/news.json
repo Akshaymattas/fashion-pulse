@@ -1,7 +1,7 @@
 {
- "updated_at": "27 Sep 2026, 04:10 PM IST",
- "updated_at_iso": "2026-09-27T10:40:15.742243+00:00",
- "count": 72,
+ "updated_at": "28 Sep 2026, 05:23 PM IST",
+ "updated_at_iso": "2026-09-28T11:53:29.914229+00:00",
+ "count": 74,
  "reference_links": [
   {
    "name": "Statista — Apparel Market",
@@ -21,106 +21,277 @@
  ],
  "items": [
   {
-   "title": "Ann Demeulemeester Hosts Book Signing for ‘Print’ in Milan",
-   "link": "https://wwd.com/fashion-news/fashion-scoops/ann-demeulemeester-book-signing-print-milan-1239279075/",
-   "summary": "The coffee table book, published by Hannibal, retraces Demeulemeester’s career through fashion show invitations.",
+   "title": "Will Nike’s New CFO Reset Expectations Amid Wall Street Scrutiny?",
+   "link": "https://wwd.com/footwear-news/shoe-industry-news/nike-cfo-david-denton-expectations-q1-report-1239282026/",
+   "summary": "Nike CFO David Denton's charged with supporting \"disciplined execution,\" which has some on Wall Street believing more conservative guidance is ahead.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-28T11:43:38+00:00"
+  },
+  {
+   "title": "How Archive, the Resale Platform, Is Ramping Up Footwear",
+   "link": "https://wwd.com/footwear-news/shoe-industry-news/xero-shoes-resale-platform-archive-circularity-1239249775/",
+   "summary": "Three new brands were just added.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-28T11:31:48+00:00"
+  },
+  {
+   "title": "Tesco trials virtual try-on for F&F clothing at Sandhurst Extra",
+   "link": "https://www.just-style.com/news/tesco-virtual-try-on-sandhurst/",
+   "summary": "Tesco has begun trialling virtual try-on technology for its F&F clothing range at its Sandhurst Extra store.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-28T10:42:53+00:00"
+  },
+  {
+   "title": "High gold prices offer jewellers a silver lining this festive season",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/high-gold-prices-offer-jewellers-a-silver-lining-this-festive-season/134539202",
+   "summary": "Silver, once secondary to gold in Indian jewellery, is emerging as a bigger choice this festive sale season as high gold prices push middle-class buyers towards more affordable alternatives.",
+   "source": "ET Retail — Apparel & Fashion",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-09-28T10:29:08+00:00"
+  },
+  {
+   "title": "Tarot Moves Beyond the Cards: How Mysticism Trend Is Entering Fashion’s Mainstream",
+   "link": "https://apparelresources.com/fashion-news/trends/tarot-moves-beyond-cards-mysticism-trend-entering-fashions-mainstream/",
+   "summary": "From literal tarot prints to zodiac jewellery, fashion is turning symbolic systems into expressions of identity, self-expression and personal meaning. Indian brands are interpreting the movement through both Western esotericism and local spiritual traditions. Internationally, de…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-09-28T10:21:53+00:00"
+  },
+  {
+   "title": "EXCLUSIVE: Delvaux Has a New CEO",
+   "link": "https://wwd.com/business-news/human-resources/delvaux-new-ceo-1239279073/",
+   "summary": "Yanina Novitskaya joins after 19 years at Delvaux parent Richemont, most recently as chief executive officer of Cartier in southeast Asia and Oceania.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-28T09:45:00+00:00"
+  },
+  {
+   "title": "Indigo Returns as Autumn’s Defining Denim, and the Shirt Dress Leads It",
+   "link": "https://apparelresources.com/fashion-news/trends/indigo-returns-autumns-defining-denim-shirt-dress-leads/",
+   "summary": "As pale summer washes retire, deep indigo is resetting the denim wardrobe. The dress is the pivot, and Indian labels from mass-market to couture are already working in the same territory. Denim has changed its tone for autumn. Rich, inky indigo is the season’s key wash and the p…",
+   "source": "Apparel Resources India",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-09-28T09:39:13+00:00"
+  },
+  {
+   "title": "Lectra CEO: Agentic AI is the team member you never knew you needed",
+   "link": "https://www.just-style.com/interviews/lectra-ceo-agentic-ai-is-the-team-member-you-never-knew-you-needed/",
+   "summary": "In a candid chat with Just Style Lectra deputy CEO Maximilien Abadie questions whether the fashion industry has been looking at AI all wrong.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-28T09:21:41+00:00"
+  },
+  {
+   "title": "Week in Review: When transparency becomes costly",
+   "link": "https://www.just-style.com/comment/week-in-review-when-transparency-becomes-costly/",
+   "summary": "China is attracting luxury apparel brands thanks to its increasing technical know-how. But for some brands, that means betraying their roots.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-28T09:11:11+00:00"
+  },
+  {
+   "title": "Levi Strauss, Marks and Spencer launch Fashion Renewable Collective",
+   "link": "https://www.just-style.com/news/levis-marks-and-spencer-launch-fashion-renewable-collective/",
+   "summary": "Levi Strauss and Marks and Spencer have launched the Fashion Renewable Collective, aiming to help suppliers adopt renewable technologies.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-28T09:06:54+00:00"
+  },
+  {
+   "title": "Major UK retailers launch ‘The Circuit’ to scale textile recycling",
+   "link": "https://www.just-style.com/news/uk-textile-waste-the-circuit/",
+   "summary": "A coalition of retailers has launched ‘The Circuit’, a collaborative initiative to tackle the growing textile waste challenge in the UK.",
+   "source": "Just Style",
+   "regions": [
+    "Europe",
+    "Global"
+   ],
+   "published": "2026-09-28T09:02:43+00:00"
+  },
+  {
+   "title": "Drapers daily news 28/09/2026",
+   "link": "https://www.drapersonline.com/news/drapers-daily-news-15-09-2026",
+   "summary": "Drapers Drapers daily news 28/09/2026 Here are today's key fashion retail news stories… - Government launches £210m fund to revive high streets drapersonline.com/5p2u - Armani will 'accept multiple investors for stake' drapersonline.com/906a - Independents see autumn demand buil…",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-09-28T07:59:25+00:00"
+  },
+  {
+   "title": "Jisoo Enjoys the ‘Quieter Moments’ of Life in First Salomon Campaign as Global Ambassador",
+   "link": "https://wwd.com/footwear-news/shoe-industry-news/jisoo-salomon-campaign-debut-winter-sneakers-details-1239281944/",
+   "summary": "The Blackpink star is seen wearing shoes from the French sports brand’s new winter collection.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-28T07:29:00+00:00"
+  },
+  {
+   "title": "India’s jewellery exports targeted at USD 100 billion: WGC",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/indias-jewellery-exports-targeted-at-usd-100-billion-wgc/134535207",
+   "summary": "The jewellery industry is also seeing changes in consumer purchasing patterns amid elevated gold prices. Pramod Derawala, chairman, National Jewellery & Gemstone Council of India, said, \"Rising gold prices are pushing consumers towards lightweight jewellery, while more than 90 p…",
+   "source": "ET Retail — Apparel & Fashion",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-09-28T07:13:51+00:00"
+  },
+  {
+   "title": "Armani will ‘accept multiple investors for stake’",
+   "link": "https://www.drapersonline.com/news/armani-will-accept-multiple-investors-for-stake-ceo-says",
+   "summary": "Drapers Armani will ‘accept multiple investors for stake’ Armani CEO Guiseppe Marsocci has reportedly said that multiple investors may share the 15% stake founder Giorgio Armani had earmarked for sale in his will. The post Armani will ‘accept multiple investors for stake’ appear…",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-09-28T07:07:11+00:00"
+  },
+  {
+   "title": "Government launches £210m fund to revive high streets",
+   "link": "https://www.drapersonline.com/news/government-launches-210m-fund-to-revive-high-streets",
+   "summary": "Drapers Government launches £210m fund to revive high streets The government has announced a £210m package to convert derelict high street buildings into shared workspaces, cafes and community hubs. The post Government launches £210m fund to revive high streets appeared first on…",
+   "source": "Drapers",
+   "regions": [
+    "Europe"
+   ],
+   "published": "2026-09-28T07:04:13+00:00"
+  },
+  {
+   "title": "The Designer of Olivia Rodrigo’s Viral ‘Melting’ Dress Explains How It Worked",
+   "link": "https://wwd.com/pop-culture/celebrity-news/olivia-rodrigo-melting-dress-explained-hussein-chalayan-1239282127/",
+   "summary": "Hussein Chalayan tells WWD how “The Cure” inspired the dissolving minidress, why vulnerability shaped the reveal and what it took to make the transformation work live.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-28T06:30:00+00:00"
+  },
+  {
+   "title": "Chanel to Stage Cruise 2027 Show in Deauville",
+   "link": "https://wwd.com/fashion-news/fashion-scoops/chanel-cruise-2027-show-location-deauville-france-1239263490/",
+   "summary": "Matthieu Blazy will present his resort collection in the French coastal town on April 27.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-28T05:00:00+00:00"
+  },
+  {
+   "title": "EXCLUSIVE: Primark Backs Circ With Long-term Recycled Polyester Deal",
+   "link": "https://wwd.com/sustainability/business/primark-circ-recycled-polyester-partnership-2029-1239281756/",
+   "summary": "The agreement gives Circ a committed buyer as it builds a $500 million recycling facility designed to process 70,000 tons of textile waste a year in France.",
    "source": "WWD",
    "regions": [
     "Europe",
     "Global"
    ],
-   "published": "2026-09-27T09:00:59+00:00"
+   "published": "2026-09-28T05:00:00+00:00"
   },
   {
-   "title": "The Big Topic at Zalando’s ‘Partner Day’: What AI Can — and Can’t — Do for Online Fashion",
-   "link": "https://wwd.com/business-news/technology/zalando-partner-day-what-ai-can-and-cant-do-for-fashion-1239280107/",
-   "summary": "At an event for brand partners that Zalando, one of Europe's largest online fashion retailers, holds annually, company insiders explained how they are using AI today to save money, create content and analyze customer data. They also talked about what AI can't do yet in the fashi…",
+   "title": "Gérard Darel and Merci’s New Collab Is a Family Affair",
+   "link": "https://wwd.com/fashion-news/fashion-features/gerard-darel-merci-parisian-collaboration-fall-collection-1239281791/",
+   "summary": "The first collaboration between the two Parisian brands brings together brothers Laurent and Arthur Gerbi, who work at Gérard Darel and Merci respectively.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-28T05:00:00+00:00"
+  },
+  {
+   "title": "Haggar Celebrating a Century of Innovation",
+   "link": "https://wwd.com/menswear-news/mens-retail-business/haggar-randa-centennial-michael-stitt-david-katz-1239240227/",
+   "summary": "Already the top-selling dress pant and sport coat brand in America, the company sees international, brand extensions as growth opportunities.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-28T04:01:00+00:00"
+  },
+  {
+   "title": "Michael Kors Reveals Two Fall Campaigns Featuring Chinese Ambassador Meng Ziyi and Global Brand Ambassador JC-T",
+   "link": "https://wwd.com/fashion-news/fashion-scoops/michael-kors-fall-campaigns-global-brand-ambassador-jc-t-chinese-ambassador-meng-ziyi-1239259386/",
+   "summary": "Both were photographed by Nick Yang in London.",
    "source": "WWD",
    "regions": [
     "Europe",
     "Global"
    ],
-   "published": "2026-09-27T01:50:00+00:00"
+   "published": "2026-09-28T04:01:00+00:00"
   },
   {
-   "title": "Bottega Veneta Spring 2027: Lightening Up",
-   "link": "https://wwd.com/runway/spring-2027/milan/bottega-veneta/review/",
-   "summary": "Louise Trotter eased up on woven leather and leaned into lighter fabrics, Venetian lace and other homespun touches.",
-   "source": "WWD",
+   "title": "It's the right time to invest in India: Swiss luxury watchmaker Baume & Mercier CEO",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/accessories/its-the-right-time-to-invest-in-india-swiss-luxury-watchmaker-baume-mercier-ceo/134531061",
+   "summary": "Swiss luxury watchmakers, particularly Baume & Mercier, are planning significant investments in India due to the India-EFTA trade pact. Despite currency challenges, the company sees strong long-term potential and growth in the Indian market. Indian consumers are increasingly fav…",
+   "source": "ET Retail — Apparel & Fashion",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-09-28T03:44:47+00:00"
+  },
+  {
+   "title": "Rado steps up premium play in India as Swiss watch market grows 31 pc",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/luxury/rado-steps-up-premium-play-in-india-as-swiss-watch-market-grows-31-pc/134530087",
+   "summary": "Rado, a Swiss watchmaker, is witnessing remarkable growth in India, marking it as its largest market globally. The brand anticipates further expansion, driven by a booming luxury segment and increasing consumer demand. Swiss watch imports into India have surged, showcasing a rob…",
+   "source": "ET Retail — Apparel & Fashion",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-09-28T02:37:14+00:00"
+  },
+  {
+   "title": "The AI-powered future of care",
+   "link": "https://www.mckinsey.com/industries/healthcare/our-insights/the-ai-powered-future-of-care",
+   "summary": "AI won’t replace clinicians, but it can improve quality, increase access, and reshape the workforce, payments, and patient volumes. Today, AI can perform some 16 to 22 percent of US outpatient care.",
+   "source": "McKinsey & Company",
    "regions": [
     "Global"
    ],
-   "published": "2026-09-26T21:08:14+00:00"
+   "published": "2026-09-28T00:00:00+00:00"
   },
   {
-   "title": "Marco Rambaldi Spring 2027: There’s No Place Like Home",
-   "link": "https://wwd.com/runway/spring-2027/milan/marco-rambaldi/review/",
-   "summary": "Marco Rambaldi continued his exploration of intimate spaces, and relationships, using the home as inspiration for this youthful, laid-back collection.",
-   "source": "WWD",
+   "title": "Convenience or discovery: Which mission will your store serve?",
+   "link": "https://www.mckinsey.com/industries/retail/our-insights/convenience-or-discovery-which-mission-will-your-store-serve",
+   "summary": "As AI reshapes how consumers browse, shop, and buy, retailers must choose a mission for every location—and commit to it.",
+   "source": "McKinsey & Company",
    "regions": [
     "Global"
    ],
-   "published": "2026-09-26T20:32:24+00:00"
+   "published": "2026-09-28T00:00:00+00:00"
   },
   {
-   "title": "Act N.1 Spring 2027: Twist But Don’t Shout",
-   "link": "https://wwd.com/runway/spring-2027/milan/act-n-1/review/",
-   "summary": "Luca Lin tweaked wardrobe staples with twists and imperfections for a not-so-ordinary yet relaxed take on tailoring.",
-   "source": "WWD",
+   "title": "Textiles ministry plans 5,000-10,000 new exporters in 2-3 years",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/textiles-ministry-plans-5000-10000-new-exporters-in-2-3-years/134525828",
+   "summary": "The textiles ministry plans to identify 5,000-10,000 new exporters across districts over the next 2-3 years to boost India’s global textile market share. It is working with states on district-level export roadmaps to turn production centres into export hubs through better infras…",
+   "source": "ET Retail — Apparel & Fashion",
    "regions": [
-    "Global"
+    "India"
    ],
-   "published": "2026-09-26T18:36:39+00:00"
-  },
-  {
-   "title": "Meet Timisola Shasanya, the Winner of the Inaugural Sozzani Award",
-   "link": "https://wwd.com/fashion-news/fashion-features/sozzani-award-inaugural-prize-timisola-shasanya-1239280427/",
-   "summary": "The menswear designer is receiving a 15,000-euro scholarship.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-26T18:07:51+00:00"
-  },
-  {
-   "title": "Dolce & Gabbana Spring 2027: Sicilian Extravagance",
-   "link": "https://wwd.com/runway/spring-2027/milan/dolce-gabbana/review/",
-   "summary": "Domenico Dolce and Stefano Gabbana endorsed the concept of freedom of choice, randomly mixing and matching patterns and textures, in a collection that telegraphed playfulness and joy.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-26T18:03:00+00:00"
-  },
-  {
-   "title": "MSGM Spring 2027: Stars, Stripes — and Zing",
-   "link": "https://wwd.com/runway/spring-2027/milan/msgm/review/",
-   "summary": "Massimo Giorgetti debuted a collaboration with the late Italian pop artist Mario Schifano, whose works felt right at home amid so many vibrant colors and prints.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-26T16:20:42+00:00"
-  },
-  {
-   "title": "Ermanno Scervino Spring 2027: All That Glitters",
-   "link": "https://wwd.com/runway/spring-2027/milan/ermanno-scervino/review/",
-   "summary": "Ermanno Scervino swiped the gold frogging from 18th century pirate coats, and The Beatles' Sgt. Pepper's jackets, using it across a collection that was brimming with fashion treasures.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-26T16:17:16+00:00"
-  },
-  {
-   "title": "Ferragamo Spring 2027: Pocket Calls",
-   "link": "https://wwd.com/runway/spring-2027/milan/salvatore-ferragamo/review/",
-   "summary": "Maximilian Davis gave safari style a sensual spin in one of his strongest collections yet.",
-   "source": "WWD",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-26T14:31:58+00:00"
+   "published": "2026-09-27T19:32:01+00:00"
   },
   {
    "title": "The Bomber Jacket Grows Up",
@@ -265,6 +436,27 @@
    "published": "2026-09-25T10:50:45+00:00"
   },
   {
+   "title": "Textile ETP pushes for 50% biobased, circular materials by 2050",
+   "link": "https://www.just-style.com/news/textile-etp-circular-materials-strategy/",
+   "summary": "Textile ETP is calling for biobased and circular materials to account for 50% of the fibre consumed in the EU by 2050.",
+   "source": "Just Style",
+   "regions": [
+    "Europe",
+    "Global"
+   ],
+   "published": "2026-09-25T10:49:03+00:00"
+  },
+  {
+   "title": "Textile factory explosion kills nine in Bangladesh",
+   "link": "https://www.just-style.com/news/ashulia-fire-bangladesh-factory/",
+   "summary": "At least nine fatalities have been confirmed following a gas cylinder explosion and fire at Pretty Composite Textiles factory in Bangladesh.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-25T10:28:43+00:00"
+  },
+  {
    "title": "Cooling Bangladesh apparel factories pays for itself in 4 years",
    "link": "https://www.just-style.com/news/bangladesh-garment-factory-heat-cooling/",
    "summary": "A research report says investments to reduce heat in Bangladesh garment factories could recover their costs within one to four years.",
@@ -305,16 +497,6 @@
    "published": "2026-09-25T08:49:32+00:00"
   },
   {
-   "title": "Drapers daily news 25/09/2026",
-   "link": "https://www.drapersonline.com/news/drapers-daily-news-15-09-2026",
-   "summary": "Drapers Drapers daily news 25/09/2026 Here are today's key fashion retail news stories… - Mango names new chief retail officer drapersonline.com/lsmv - Arne signs third UK store drapersonline.com/gofr - Tesco's F&F trials in-store virtual try-on drapersonline.com/w931 - Governme…",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-09-25T08:12:25+00:00"
-  },
-  {
    "title": "Mango names new chief retail officer",
    "link": "https://www.drapersonline.com/news/mango-names-new-chief-retail-officer",
    "summary": "Drapers Mango names new chief retail officer Spanish fashion giant Mango has named former H&M executive Katarzyna Niemirowicz Majtas as its new chief retail officer. The post Mango names new chief retail officer appeared first on Drapers .",
@@ -335,26 +517,6 @@
    "published": "2026-09-25T07:04:35+00:00"
   },
   {
-   "title": "First look: Margaret Howell opens first shop in South Korea",
-   "link": "https://www.drapersonline.com/news/first-look-margaret-howell-opens-first-shop-in-south-korea",
-   "summary": "Drapers First look: Margaret Howell opens first shop in South Korea British minimalist brand Margaret Howell has opened its first shop in South Korea as part of a phased retail expansion in the market. The post First look: Margaret Howell opens first shop in South Korea appeared…",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-09-25T06:57:27+00:00"
-  },
-  {
-   "title": "Tesco’s F&F trials in-store virtual try-on",
-   "link": "https://www.drapersonline.com/news/tescos-ff-trials-in-store-virtual-try-on",
-   "summary": "Drapers Tesco’s F&F trials in-store virtual try-on Tesco’s clothing brand F&F is trialling new virtual try-on technology across 1,500 products at its Sandhurst Extra store, Berkshire. The post Tesco’s F&F trials in-store virtual try-on appeared first on Drapers .",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-09-25T06:36:28+00:00"
-  },
-  {
    "title": "Utility Meets Tailoring As Workwear-derived Layers Turn Refined",
    "link": "https://apparelresources.com/fashion-news/trends/utility-meets-tailoring-workwear-derived-layers-turn-refined/",
    "summary": "Fall dressing often borrows from traditional workwear: barn jackets, chore coats and carpenter pants. This year, however, the industry sees “a shift to something much more refined,”. The utilitarian outdoor influences are evolving into an upscale, tailored countryside aesthetic.…",
@@ -373,70 +535,6 @@
     "India"
    ],
    "published": "2026-09-24T13:26:31+00:00"
-  },
-  {
-   "title": "Can trade shows keep pace with modern sourcing?",
-   "link": "https://www.just-style.com/features/can-trade-shows-keep-pace-with-modern-sourcing/",
-   "summary": "Amid industry chatter that trade shows are no longer delivering the business they once did, some events are adapting their approach.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-24T11:05:24+00:00"
-  },
-  {
-   "title": "Is supermarket fashion back in vogue?",
-   "link": "https://www.just-style.com/features/is-supermarket-fashion-back-in-vogue/",
-   "summary": "Just Style looks at the revived fashion offerings of UK supermarkets and considers whether they are ready to take on their trendier rivals.",
-   "source": "Just Style",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-09-24T10:34:43+00:00"
-  },
-  {
-   "title": "Shein and SPEAC launch EU compliance sessions for marketplace sellers",
-   "link": "https://www.just-style.com/news/shein-eu-compliance-training/",
-   "summary": "Shein has started a planned series of nine compliance training sessions for marketplace sellers operating in the European Union.",
-   "source": "Just Style",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-09-24T10:16:51+00:00"
-  },
-  {
-   "title": "H&M Q3 profit rises 23% admit tariff refunds and higher margins",
-   "link": "https://www.just-style.com/news/hm-q3-result-profit/",
-   "summary": "H&M Group reported a 23% rise in profit for Q3 FY26, as one-time tariff-related effects and tighter cost controls lift margins.",
-   "source": "Just Style",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-09-24T09:59:58+00:00"
-  },
-  {
-   "title": "Matalan brings in former M&S, F&F exec Price to advise on transformation",
-   "link": "https://www.just-style.com/news/matalan-brings-in-former-ms-ff-exec-price-to-advise-on-transformation/",
-   "summary": "Matalan has named Richard Price MBE, former MD of Clothing, Home and Beauty at M&S, as an adviser to the company.",
-   "source": "Just Style",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-09-24T09:42:58+00:00"
-  },
-  {
-   "title": "Spinnova weighs acquisition of Portuguese yarn spinner Tearfil",
-   "link": "https://www.just-style.com/news/spinnova-tearfil-acquisition-intend/",
-   "summary": "Spinnova has signed a letter of intent (LoI) with Portuguese yarn spinner Tearfil to explore the acquisition of all the company’s shares.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-24T09:14:04+00:00"
   },
   {
    "title": "Lab-grown diamond jewellery startup ONYA raises Rs 12.5 crore in Pre-Series A funding",
@@ -479,16 +577,6 @@
    "published": "2026-09-24T00:00:00+00:00"
   },
   {
-   "title": "Democratized superintelligence is coming: The world needs to get ready",
-   "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/democratized-superintelligence-is-coming-the-world-needs-to-get-ready",
-   "summary": "Bret Taylor, Sierra cofounder and OpenAI chair, believes AI’s near-term cybersecurity risks are real but solvable, and its greater power lies in delivering the world’s best knowledge to everyone.",
-   "source": "McKinsey & Company",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-24T00:00:00+00:00"
-  },
-  {
    "title": "The new growth mandate: A conversation with LinkedIn CMO Jessica Jensen",
    "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-new-growth-mandate-a-conversation-with-linkedin-cmo-jessica-jensen",
    "summary": "At Cannes Lions 2026, LinkedIn CMO Jessica Jensen and McKinsey senior partner Dianne Esber discussed what it takes to turn AI from experimentation into a catalyst for growth.",
@@ -499,14 +587,14 @@
    "published": "2026-09-24T00:00:00+00:00"
   },
   {
-   "title": "Fashion linked to 30% of global farmland, says new Oxford study",
-   "link": "https://www.just-style.com/news/fashion-farmland-oxford-study/",
-   "summary": "Nearly one-third of the world’s farmland is currently influenced by the fashion sector, far surpassing previous estimates.",
-   "source": "Just Style",
+   "title": "Democratized superintelligence is coming: The world needs to get ready",
+   "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/democratized-superintelligence-is-coming-the-world-needs-to-get-ready",
+   "summary": "Bret Taylor, Sierra cofounder and OpenAI chair, believes AI’s near-term cybersecurity risks are real but solvable, and its greater power lies in delivering the world’s best knowledge to everyone.",
+   "source": "McKinsey & Company",
    "regions": [
     "Global"
    ],
-   "published": "2026-09-23T10:43:44+00:00"
+   "published": "2026-09-24T00:00:00+00:00"
   },
   {
    "title": "Archival Prints Make a Comeback for 2026",
@@ -539,26 +627,6 @@
    "published": "2026-09-23T07:04:13+00:00"
   },
   {
-   "title": "Neeman’s appoints Deepu Virmani as chief product officer",
-   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/footwear/neemans-appoints-deepu-virmani-as-chief-product-officer/134427619",
-   "summary": "The appointment comes as Neeman’s targets Rs 1,000 crore in revenue over the next three years. The company reported revenue of about Rs 185 crore in the previous financial year and is targeting Rs 350 crore in the current financial year. It currently operates 49 exclusive stores…",
-   "source": "ET Retail — Apparel & Fashion",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-09-23T06:35:49+00:00"
-  },
-  {
-   "title": "India's global apparel export share stuck at 3 per cent despite China losing ground; FTAs, China+1 open opportunity",
-   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/indias-global-apparel-export-share-stuck-at-3-per-cent-despite-china-losing-ground-ftas-china1-open-opportunity/134424161",
-   "summary": "India has failed to gain meaningful share in global apparel exports despite China’s declining dominance, holding at around 3% in 2025 while Bangladesh and Vietnam captured much of the China+1 shift. PL Capital says improving trade access and policy support could create fresh opp…",
-   "source": "ET Retail — Apparel & Fashion",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-09-23T02:13:47+00:00"
-  },
-  {
    "title": "Harnessing AI to make mining safer",
    "link": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
    "summary": "AI could improve both safety and productivity by anticipating problems before they arise, detecting worker fatigue, and automating dangerous tasks.",
@@ -579,6 +647,16 @@
    "published": "2026-09-23T00:00:00+00:00"
   },
   {
+   "title": "Author Talks: The business of owning a sports team",
+   "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-business-of-owning-a-sports-team",
+   "summary": "How does business ownership compare with owning a sports team? Baltimore Orioles owner David M. Rubenstein explains the leadership mindset, culture building, and long-term thinking that team ownership requires.",
+   "source": "McKinsey & Company",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-09-23T00:00:00+00:00"
+  },
+  {
    "title": "India’s new insurance track: The marathon becomes an AI-led decathlon",
    "link": "https://www.mckinsey.com/industries/financial-services/our-insights/indias-new-insurance-track-the-marathon-becomes-an-ai-led-decathlon",
    "summary": "As India’s economy continues to ramp up, insurers have an opportunity to capture value by improving productivity, modernizing operating models, and scaling technology and AI across the enterprise.",
@@ -586,16 +664,6 @@
    "regions": [
     "Global",
     "India"
-   ],
-   "published": "2026-09-23T00:00:00+00:00"
-  },
-  {
-   "title": "Author Talks: The business of owning a sports team",
-   "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-business-of-owning-a-sports-team",
-   "summary": "How does business ownership compare with owning a sports team? Baltimore Orioles owner David M. Rubenstein explains the leadership mindset, culture building, and long-term thinking that team ownership requires.",
-   "source": "McKinsey & Company",
-   "regions": [
-    "Global"
    ],
    "published": "2026-09-23T00:00:00+00:00"
   },
@@ -628,27 +696,6 @@
     "India"
    ],
    "published": "2026-09-22T09:47:14+00:00"
-  },
-  {
-   "title": "UK's JD Sports expands into Mexico through Grupo Axo partnership",
-   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/sportswear/uks-jd-sports-expands-into-mexico-through-grupo-axo-partnership/134403911",
-   "summary": "British sportswear retailer JD Sports on Monday announced its expansion into Mexico through a long-term franchise partnership with fashion retailer Grupo Axo, betting on strong",
-   "source": "ET Retail — Apparel & Fashion",
-   "regions": [
-    "Europe",
-    "India"
-   ],
-   "published": "2026-09-22T06:11:01+00:00"
-  },
-  {
-   "title": "Gold sales during Ganesh Chaturthi down 15 per cent in volume amid price surge",
-   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/gold-sales-during-ganesh-chaturthi-down-15-per-cent-in-volume-amid-price-surge/134400122",
-   "summary": "This year's Ganesh Chaturthi witnessed a 15% drop in gold sales volume compared to the previous year. Consumers opted for lighter gold pieces and exchanged old jewelry amid high prices. Nonetheless, sales of bullion coins and bars reflect cautious optimism among investors. Despi…",
-   "source": "ET Retail — Apparel & Fashion",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-09-22T01:34:07+00:00"
   },
   {
    "title": "Powering through uncertainty: A talk with former US Energy Secretary Ernest Moniz",
@@ -719,36 +766,6 @@
     "India"
    ],
    "published": "2026-09-21T12:01:55+00:00"
-  },
-  {
-   "title": "Gold eases on inflation woes, rate hike fears",
-   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/gold-eases-on-inflation-woes-rate-hike-fears/134379086",
-   "summary": "Gold prices dropped during the early hours of Asian trading on Monday, driven by escalating tensions in the Middle East and persistent inflation worries sparking interest rate hike predictions. As global central banks react by increasing rates to control inflation, Indian buyers…",
-   "source": "ET Retail — Apparel & Fashion",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-09-21T03:32:08+00:00"
-  },
-  {
-   "title": "WIRED: The AI playbook top companies use",
-   "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/wired-the-ai-playbook-top-companies-use",
-   "summary": "WIRED’s Katie Drummond talks with McKinsey’s Dan Swan about why capturing AI’s full potential requires companies to move beyond experimentation and fundamentally rewire their businesses.",
-   "source": "McKinsey & Company",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-21T00:00:00+00:00"
-  },
-  {
-   "title": "The economics of AI",
-   "link": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-the-economics-of-ai",
-   "summary": "AI is getting more expensive for companies. As rising token usage and workflow complexity make costs harder to predict, leaders need new ways to manage AI economics.",
-   "source": "McKinsey & Company",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-09-21T00:00:00+00:00"
   }
  ]
 }
