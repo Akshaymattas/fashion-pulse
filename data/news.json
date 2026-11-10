@@ -1,7 +1,7 @@
 {
- "updated_at": "09 Nov 2026, 07:41 PM IST",
- "updated_at_iso": "2026-11-09T14:11:31.601742+00:00",
- "count": 75,
+ "updated_at": "10 Nov 2026, 07:11 PM IST",
+ "updated_at_iso": "2026-11-10T13:41:12.214156+00:00",
+ "count": 62,
  "reference_links": [
   {
    "name": "Statista — Apparel Market",
@@ -21,84 +21,180 @@
  ],
  "items": [
   {
-   "title": "Union Pacific CEO’s Rate Remark May Have Silenced Merger Opponents, STB Says",
-   "link": "https://wwd.com/sourcing-journal/logistics/stb-union-pacific-ceo-jim-vena-norfolk-southern-merger-opponents-video-1239405276/",
-   "summary": "The board ordered UP to release video of CEO Jim Vena saying he might raise rates for shippers who don't support the Norfolk Southern deal.",
+   "title": "Third Extension Buys More Time for Labor Negotiations at LA-Long Beach Ports",
+   "link": "https://wwd.com/sourcing-journal/logistics/la-long-beach-watchmen-strike-delayed-nov-20-holiday-cargo-nrf-1239408058/",
+   "summary": "Port watchmen and their employers extended contract talks through Nov. 20, with NRF's Jon Gold assuring \"most holiday merchandise is already here.\"",
    "source": "WWD",
    "regions": [
     "Global"
    ],
-   "published": "2026-11-09T14:00:00+00:00"
+   "published": "2026-11-10T13:00:00+00:00"
   },
   {
-   "title": "David Schwimmer Revisits ‘Friends’ Nostalgia in Quince’s ‘The Red Sweater’ Campaign",
-   "link": "https://wwd.com/fashion-news/fashion-scoops/david-schwimmer-friends-quinces-red-sweater-campaign-1239405122/",
-   "summary": "The actor stars in Quince’s first celebrity campaign, bringing a ‘90s-inspired twist to its signature cashmere sweater in a new Coulis Red colorway.",
+   "title": "Harrods Dives Into Holiday Season With ‘Where the Stars Align’",
+   "link": "https://wwd.com/business-news/retail/harrods-holiday-season-where-the-stars-align-campaign-1239406674/",
+   "summary": "For Christmas, the Knightsbridge retailer brings together 17,000 lights, handcrafted windows, luxury brand activations, and experiences for families.",
    "source": "WWD",
    "regions": [
     "Global"
    ],
-   "published": "2026-11-09T14:00:00+00:00"
+   "published": "2026-11-10T12:01:00+00:00"
   },
   {
-   "title": "Levi’s Introduces AI Hiring Agent to Streamline Recruitment",
-   "link": "https://wwd.com/sourcing-journal/sj-denim/levis-introduces-andy-ai-hiring-agent-streamline-interviews-1239405053/",
-   "summary": "The AI agent is designed to make the hiring process faster, more responsive and, ultimately, more human-focused.",
+   "title": "These Are the Denim Brands Republicans Prefer Most",
+   "link": "https://wwd.com/sourcing-journal/sj-denim/these-are-the-denim-brands-republicans-prefer-most-yougov-1239408073/",
+   "summary": "YouGov's “U.S. Bipartisan Brand Rankings 2026” report examines consumer preferences across various industries and political divides.",
    "source": "WWD",
    "regions": [
     "Global"
    ],
-   "published": "2026-11-09T13:30:00+00:00"
+   "published": "2026-11-10T12:00:00+00:00"
   },
   {
-   "title": "Calvin Klein Unfurls the Icons With Jung Kook of BTS for Holiday 2026",
-   "link": "https://wwd.com/fashion-news/fashion-scoops/calvin-klein-icons-jung-kook-of-bts-holiday-2026-1239405003/",
-   "summary": "The holiday edit runs the gamut from signature denim to seasonal layers and elevated staples.",
+   "title": "M&S targets 10% margins as it sets out fashion growth ambitions",
+   "link": "https://www.just-style.com/news/ms-targets-10-margins-as-it-sets-out-fashion-growth-ambitions/",
+   "summary": "M&S plans to grow its fashion, home & beauty business by targeting operating margins of more than 10% across both online and store channels.",
+   "source": "Just Style",
+   "regions": [
+    "Europe",
+    "Global"
+   ],
+   "published": "2026-11-10T10:20:43+00:00"
+  },
+  {
+   "title": "On Holding Posts Record Results as It Holds to Premium Positioning",
+   "link": "https://wwd.com/footwear-news/shoe-industry-news/on-holdings-earnings-sales-1239407933/",
+   "summary": "The Zurich-based running brand is beginning to focus more on soccer, tennis and apparel.",
    "source": "WWD",
    "regions": [
     "Global"
    ],
-   "published": "2026-11-09T13:30:00+00:00"
+   "published": "2026-11-10T10:00:00+00:00"
   },
   {
-   "title": "Cotton Incorporated Marks Blue Jeans Go Green’s 20th Anniversary",
-   "link": "https://wwd.com/sourcing-journal/sj-denim/cotton-incorporated-blue-jeans-go-green-20th-anniversary-new-york-1239405210/",
-   "summary": "Cotton Incorporated gathered friends of the organization, including many of the Blue Jeans Go Green partners, in New York to celebrate the 20 th anniversary of the initiative.",
+   "title": "European Accelerator launches decarbonisation pilot",
+   "link": "https://www.just-style.com/news/european-accelerator-fashion-pact/",
+   "summary": "The European Accelerator is moving into a new phase including new industry resources and a pilot project aimed at supplier decarbonisation.",
+   "source": "Just Style",
+   "regions": [
+    "Europe",
+    "Global"
+   ],
+   "published": "2026-11-10T09:56:09+00:00"
+  },
+  {
+   "title": "EURATEX and GFA form alliance to advance sustainable textile policy",
+   "link": "https://www.just-style.com/news/euratex-gfa-textile-alliance/",
+   "summary": "The European Apparel and Textile Confederation (EURATEX) and Global Fashion Agenda (GFA) have formed an alliance to coordinate policy and sustainability work across the European textile and clothing value chain.",
+   "source": "Just Style",
+   "regions": [
+    "Europe",
+    "Global"
+   ],
+   "published": "2026-11-10T09:54:06+00:00"
+  },
+  {
+   "title": "What the US midterms mean for textiles and apparel",
+   "link": "https://www.just-style.com/comment/what-the-us-midterms-mean-for-textiles-and-apparel/",
+   "summary": "The elections won't settle the argument over who eats the tariff cost, warns Robert P. Antoshak, Managing Partner, Gherzi Americas.",
+   "source": "Just Style",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-11-10T09:29:47+00:00"
+  },
+  {
+   "title": "ReHubs welcomes Epoch Biodesign as latest partner",
+   "link": "https://www.just-style.com/news/rehubs-welcomes-epoch-biodesign-as-latest-partner/",
+   "summary": "Epoch Biodesign said it is pleased to to join ReHubs, the partnership-based alliance working to scale textile-to-textile recycling in Europe.",
+   "source": "Just Style",
+   "regions": [
+    "Europe",
+    "Global"
+   ],
+   "published": "2026-11-10T09:25:58+00:00"
+  },
+  {
+   "title": "EXCLUSIVE: Florrie London and Perelló Team Up on Limited Olive-Inspired Heel Collection",
+   "link": "https://wwd.com/footwear-news/shoe-trends/florrie-london-perello-olives-shoe-collaboration-1239404377/",
+   "summary": "The British luxury footwear brand and Spanish olive brand have come together for a fashion-meets-food collaboration.",
+   "source": "WWD",
+   "regions": [
+    "Europe",
+    "Global"
+   ],
+   "published": "2026-11-10T09:00:00+00:00"
+  },
+  {
+   "title": "EXCLUSIVE: First Look at Antonin Tron’s Debut Menswear for Balmain",
+   "link": "https://wwd.com/runway/mens-spring-2027/paris/balmain/review/",
+   "summary": "One year after being named creative director, the designer is bringing sexy back to the men's department, starting with pre-spring 2027.",
    "source": "WWD",
    "regions": [
     "Global"
    ],
-   "published": "2026-11-09T13:00:00+00:00"
+   "published": "2026-11-10T06:00:00+00:00"
   },
   {
-   "title": "EXCLUSIVE: Victoria’s Secret Pink and Stoney Clover Lane Collaborate on New Holiday Collection",
-   "link": "https://wwd.com/pop-culture/new-fashion-releases/victorias-secret-pink-stoney-clover-lane-holiday-collab-1239404315/",
-   "summary": "The limited-edition collaboration launches Thursday.",
+   "title": "CEO Talks: Beymen’s Elif Çapçı on Why Turkey’s Luxury Consumer Is Defying the Global Slowdown",
+   "link": "https://wwd.com/business-news/retail/beymen-ceo-elif-capci-turkey-luxury-tersane-istanbul-1239407486/",
+   "summary": "The executive explains why the group is seeing double-digit growth, how it plans to grow its new beauty-only store format, and her bet on Tersane as Istanbul’s next luxury-shopping hub.",
    "source": "WWD",
    "regions": [
     "Global"
    ],
-   "published": "2026-11-09T13:00:00+00:00"
+   "published": "2026-11-10T05:01:00+00:00"
   },
   {
-   "title": "Reformation lifts guidance despite IPO-induced loss",
-   "link": "https://www.drapersonline.com/news/reformation-lifts-guidance-despite-ipo-induced-loss",
-   "summary": "Drapers Reformation lifts guidance despite IPO-induced loss Reformation's operating income fell 26.9% year on year to $10.2m (£8.5m) for the third quarter ended 26 September, as one-off items tied to its IPO swung it into the red. The post Reformation lifts guidance despite IPO-…",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-11-09T12:09:05+00:00"
-  },
-  {
-   "title": "Louis Vuitton Brings ’80s Pop to The Frick With Alysa Liu and Chase Infiniti",
-   "link": "https://wwd.com/fashion-news/fashion-features/louis-vuitton-cruise-campaign-alysa-liu-chase-infiniti-1239406573/",
-   "summary": "The campaign for Nicolas Ghesquière's cruise collection, which also features actresses Amiah Miller and Giulia Maenza, plays with contrasting time periods.",
+   "title": "Simkhai Expands Footprint With Stores in Miami and Houston, Plans Further Retail Push",
+   "link": "https://wwd.com/business-news/retail/simkhai-expands-retail-footprint-miami-houston-stores-more-to-come-1239404447/",
+   "summary": "Additional openings are planned for 2027.",
    "source": "WWD",
    "regions": [
     "Global"
    ],
-   "published": "2026-11-09T12:00:00+00:00"
+   "published": "2026-11-10T05:01:00+00:00"
+  },
+  {
+   "title": "EXCLUSIVE: Glow Recipe Is Entering Ulta Beauty",
+   "link": "https://wwd.com/beauty-industry-news/skin-care/glow-recipe-ulta-beauty-eye-patch-grinder-1239403548/",
+   "summary": "Nearly a decade after the brand made its debut at Sephora — and one month since it went viral during \"eye patch gate\" — Glow Recipe is expanding its retail footprint.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-11-10T05:01:00+00:00"
+  },
+  {
+   "title": "EXCLUSIVE: Maybelline New York’s Iconic ‘Maybe She’s Born With It’ Tagline Gets a Revamp",
+   "link": "https://wwd.com/beauty-industry-news/beauty-features/miley-cyrus-maybe-its-maybelline-new-slogan-1239402476/",
+   "summary": "For the first time since the slogan was introduced in 1991, Maybelline is adjusting it “in the direction of what women need today,” said global president Sandrine Jolly.",
+   "source": "WWD",
+   "regions": [
+    "Global"
+   ],
+   "published": "2026-11-10T05:01:00+00:00"
+  },
+  {
+   "title": "BlueStone Jewellery reports 45pc business growth in festive period",
+   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/bluestone-jewellery-reports-45pc-business-growth-in-festive-period/135697927",
+   "summary": "\"More consumers are choosing BlueStone this festive season, reflecting the strength of our design-led proposition and our ability to offer differentiated jewellery across a wide range of price points,\" Founder and Chief Executive Gaurav Singh Kushwaha said.",
+   "source": "ET Retail — Apparel & Fashion",
+   "regions": [
+    "India"
+   ],
+   "published": "2026-11-10T03:25:01+00:00"
+  },
+  {
+   "title": "The new realities of grocery retail in the Americas and Europe",
+   "link": "https://www.mckinsey.com/industries/retail/our-insights/the-new-realities-of-grocery-retail-in-the-americas-and-europe",
+   "summary": "From AI and private brands to premium products and wellness-focused shopping, grocery retailers face new opportunities—and hard choices.",
+   "source": "McKinsey & Company",
+   "regions": [
+    "Europe",
+    "Global"
+   ],
+   "published": "2026-11-10T00:00:00+00:00"
   },
   {
    "title": "Why textile partnerships struggle to scale and what businesses should do first",
@@ -109,16 +205,6 @@
     "Global"
    ],
    "published": "2026-11-09T11:56:27+00:00"
-  },
-  {
-   "title": "Government considers banning under-16s from Vinted and Ebay",
-   "link": "https://www.drapersonline.com/news/government-considers-banning-under-16s-from-vinted-and-ebay",
-   "summary": "Drapers Government considers banning under-16s from Vinted and Ebay Online marketplaces Vinted and Ebay could be included in the social media ban for under-16s, according to reports. The post Government considers banning under-16s from Vinted and Ebay appeared first on Drapers .",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-11-09T11:53:00+00:00"
   },
   {
    "title": "Textile recyclers ‘should focus on repetitive admin in AI use’",
@@ -162,107 +248,24 @@
    "published": "2026-11-09T10:49:19+00:00"
   },
   {
-   "title": "Week in review: Less exhibition, more conversation in Manchester",
-   "link": "https://www.just-style.com/comment/week-in-review-less-exhibition-more-conversation-in-manchester/",
-   "summary": "Manchester Made & Regions brought manufacturers, retailers and industry voices together to discuss the future of British fashion production.",
-   "source": "Just Style",
+   "title": "Beyond agency boundaries: Building a statewide approach to customer experience",
+   "link": "https://www.mckinsey.com/industries/public-sector/our-insights/beyond-agency-boundaries-building-a-statewide-approach-to-customer-experience",
+   "summary": "As expectations for government evolve, three opportunities can help US states strengthen customer experience and service delivery to better meet residents’ needs.",
+   "source": "McKinsey & Company",
    "regions": [
     "Global"
    ],
-   "published": "2026-11-09T09:49:26+00:00"
+   "published": "2026-11-09T00:00:00+00:00"
   },
   {
-   "title": "Drapers daily news 09/11/2026",
-   "link": "https://www.drapersonline.com/news/drapers-daily-news-15-09-2026",
-   "summary": "Drapers Drapers daily news 09/11/2026 Here are today's key fashion retail news stories… - Oxford Street pedestrianisation drives spend and footfall drapersonline.com/03z5 - Coach sales drive 'powerful' first quarter at Tapestry drapersonline.com/e55g - Under Armour trims outlook…",
-   "source": "Drapers",
+   "title": "Future of healthcare: Extinction or accelerated evolution?",
+   "link": "https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare",
+   "summary": "Shapers of healthcare’s future must evolve under relentless economic pressure. To avoid extinction, they must harness AI and biopharma breakthroughs to innovate clinical and business models.",
+   "source": "McKinsey & Company",
    "regions": [
-    "Europe"
-   ],
-   "published": "2026-11-09T08:56:25+00:00"
-  },
-  {
-   "title": "Ralph Lauren ups outlook as sales rise",
-   "link": "https://www.drapersonline.com/companies/directory/ralph-lauren/ralph-lauren-ups-outlook-at-sales-rise",
-   "summary": "Drapers Ralph Lauren ups outlook as sales rise Adjusted operating income at Ralph Lauren surged 21.9% year on year for the second quarter to $345m (£257.6m), as the US luxury fashion brand increased its outlook for the 2027 financial year. The post Ralph Lauren ups outlook as sa…",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-11-09T08:24:52+00:00"
-  },
-  {
-   "title": "Coach sales drive ‘powerful’ first quarter at Tapestry",
-   "link": "https://www.drapersonline.com/news/coach-sales-drive-powerful-first-quarter-at-tapestry",
-   "summary": "Drapers Coach sales drive ‘powerful’ first quarter at Tapestry US accessories and leather goods group Tapestry, which owns Coach and Kate Spade, posted a 29% year-on-year increase in operating income to $424m (£316.6m) for the first quarter to 26 September. The post Coach sales …",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-11-09T08:09:35+00:00"
-  },
-  {
-   "title": "Oxford Street pedestrianisation drives spend and footfall",
-   "link": "https://www.drapersonline.com/news/oxford-street-pedestrianisation-drives-spend-and-footfall",
-   "summary": "Drapers Oxford Street pedestrianisation drives spend and footfall Mayor of London Sir Sadiq Khan has praised the initial \"transformational impact\" of pedestrianising Oxford Street, as spending at stores in the district increased 28% during the first week of the project. The post…",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-11-09T08:01:32+00:00"
-  },
-  {
-   "title": "Under Armour trims outlook as sales and profits dip",
-   "link": "https://www.drapersonline.com/companies/directory/under-armour/under-armour-trims-outlook-as-sales-and-profits-dip",
-   "summary": "Drapers Under Armour trims outlook as sales and profits dip Sportswear giant Under Armour has reported an 11.8% decline in operating income to $15m (£11.2m) for the second quarter to 30 September. The post Under Armour trims outlook as sales and profits dip appeared first on Dra…",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-11-09T07:51:20+00:00"
-  },
-  {
-   "title": "Cutting deep: why retailers are predicting this Black Friday will be the ‘biggest ever’",
-   "link": "https://www.drapersonline.com/topics/black-friday/cutting-deep-why-retailers-are-predicting-this-black-friday-will-be-the-biggest-ever",
-   "summary": "Drapers Cutting deep: why retailers are predicting this Black Friday will be the ‘biggest ever’ Some retailers say this will be the biggest-ever Black Friday after shoppers have held back on spending and warmer weather has delayed demand for winter stock. There are predictions t…",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-11-09T06:00:21+00:00"
-  },
-  {
-   "title": "EXCLUSIVE: London’s Cece Jewellery Gives Bose Earbuds a Fine Makeover",
-   "link": "https://wwd.com/accessories-news/jewelry/bose-cece-jewellery-collaboration-ultra-open-earbuds-1239404174/",
-   "summary": "The British jeweler played with gold, champlevé enamel and diamonds for a one-off design that includes a miniature 18-karat gold purse.",
-   "source": "WWD",
-   "regions": [
-    "Europe",
     "Global"
    ],
-   "published": "2026-11-09T06:00:00+00:00"
-  },
-  {
-   "title": "EXCLUSIVE: Songzio and Egonlab Rework Military Codes for New Collab",
-   "link": "https://wwd.com/fashion-news/fashion-scoops/songzio-egonlab-military-inspired-avant-garde-collab-1239406308/",
-   "summary": "The eight-month project brings together two Paris-based indie houses for a collection built on a shared interest in avant-garde silhouettes while appealing to new audiences.",
-   "source": "WWD",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-11-09T06:00:00+00:00"
-  },
-  {
-   "title": "Do Female Designers Hold the Key to Kering’s Creative Revival?",
-   "link": "https://wwd.com/fashion-news/fashion-features/female-designers-may-hold-key-to-kering-creative-revival-1239404892/",
-   "summary": "With the appointment of Martine Rose at Balenciaga, Kering gave the clearest indication yet of the direction it plans to take regarding the creative direction of its brands.",
-   "source": "WWD",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-11-09T05:01:00+00:00"
+   "published": "2026-11-09T00:00:00+00:00"
   },
   {
    "title": "How CFOs can make AI pay off",
@@ -285,56 +288,6 @@
    "published": "2026-11-07T02:42:05+00:00"
   },
   {
-   "title": "CIFF trade show previews brands for AW27 edition",
-   "link": "https://www.drapersonline.com/news/ciff-trade-show-previews-brands-for-aw27-edition",
-   "summary": "Drapers CIFF trade show previews brands for AW27 edition Copenhagen International Fashion Fair (CIFF) has announced the first raft of brands to show at its next edition in February 2027. The post CIFF trade show previews brands for AW27 edition appeared first on Drapers .",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-11-06T17:19:00+00:00"
-  },
-  {
-   "title": "Martine Rose a ‘breath of fresh air’ for Balenciaga",
-   "link": "https://www.drapersonline.com/product-and-trends/martine-rose-a-breath-of-fresh-air-for-balenciaga",
-   "summary": "Drapers Martine Rose a ‘breath of fresh air’ for Balenciaga Pierpaolo Piccioli was the third creative director exit within a matter of weeks at luxury conglomerate Kering. London-based menswear designer Martine Rose was confirmed as Balenciaga's new creative lead on Friday. Drap…",
-   "source": "Drapers",
-   "regions": [
-    "Europe"
-   ],
-   "published": "2026-11-06T16:10:40+00:00"
-  },
-  {
-   "title": "Gildan cuts FY26 outlook after weaker demand weighs on Q3 sales",
-   "link": "https://www.just-style.com/news/gildan-2026-q3-result/",
-   "summary": "Gildan Activewear cut FY26 forecasts after Q3 sales fell short of expectations amid weaker demand across its wholesale and retail businesses.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-11-06T12:38:28+00:00"
-  },
-  {
-   "title": "How brands can navigate climate crisis responsibly",
-   "link": "https://www.just-style.com/interviews/how-brands-can-navigate-climate-crisis-responsibly/",
-   "summary": "Just Style speaks with Katie Hess, head of product at Better Buying, about how the climate crisis impacts suppliers and how brands can help.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-11-06T11:12:44+00:00"
-  },
-  {
-   "title": "TradeBeyond, Open Supply Hub partner to drive supply chain visibility",
-   "link": "https://www.just-style.com/news/tradebeyond-open-supply-hub-partner-to-drive-supply-chain-visibility/",
-   "summary": "TradeBeyond has announced a strategic partnership with Open Supply Hub (OS Hub) to help retailers more easily identify partners in their supply chains.",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-11-06T11:01:57+00:00"
-  },
-  {
    "title": "Gold may glitter at Rs 1.68 lakh as global uncertainties bolster outlook: Report",
    "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/gold-may-glitter-at-rs-1-68-lakh-as-global-uncertainties-bolster-outlook-report/135603157",
    "summary": "Gold prices in India could rise to ₹1.60-1.68 lakh per 10 grams over the next 6-12 months, according to Motilal Oswal Financial Services (MOFSL), which sees price corrections as buying opportunities amid sustained investment demand and central-bank purchases..",
@@ -343,16 +296,6 @@
     "India"
    ],
    "published": "2026-11-06T10:40:00+00:00"
-  },
-  {
-   "title": "Ralph Lauren raises FY2027 outlook after Q2 sales boost",
-   "link": "https://www.just-style.com/news/ralph-lauren-q2-result/",
-   "summary": "Ralph Lauren reported a 9% increase in revenue to $2.2bn for Q2 FY27, prompting the company to lift its outlook for FY2027",
-   "source": "Just Style",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-11-06T10:27:14+00:00"
   },
   {
    "title": "Gokaldas Exports Q2 consolidated PAT jumps to Rs 41 cr",
@@ -565,9 +508,9 @@
    "published": "2026-11-05T00:00:00+00:00"
   },
   {
-   "title": "How AI can help unlock insurance growth in Latin America",
-   "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america",
-   "summary": "Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers reach even more customers and operate more efficiently.",
+   "title": "Beauty, redefined",
+   "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined",
+   "summary": "Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking to connect with consumers.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -575,9 +518,9 @@
    "published": "2026-11-05T00:00:00+00:00"
   },
   {
-   "title": "Beauty, redefined",
-   "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined",
-   "summary": "Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking to connect with consumers.",
+   "title": "How AI can help unlock insurance growth in Latin America",
+   "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america",
+   "summary": "Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers reach even more customers and operate more efficiently.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
@@ -655,16 +598,6 @@
    "published": "2026-11-04T09:53:02+00:00"
   },
   {
-   "title": "India's natural diamond industry eyes revenue stabilisation at $15 billion, not recovery",
-   "link": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/indias-natural-diamond-industry-eyes-revenue-stabilisation-at-15-billion-not-recovery/135534576",
-   "summary": "An analysis indicates India's natural diamond industry's revenues are projected to stabilize rather than rebound. Domestic demand is expected to cushion export weaknesses, particularly from the US and China. Lab-grown diamonds are reshaping the entry-level segment, affecting mar…",
-   "source": "ET Retail — Apparel & Fashion",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-11-04T09:51:15+00:00"
-  },
-  {
    "title": "Sculptural Silhouettes Take Over A/W 2026, and Indian Labels Are Already There",
    "link": "https://apparelresources.com/fashion-news/trends/sculptural-silhouettes-take-w-2026-indian-labels-already/",
    "summary": "Funnel necks, peplums and cocoon shapes are turning proportion into the main design idea of the winter wardrobe, across casual, formal and outerwear. Streamlined silhouettes have not gone anywhere, but this winter’s more interesting dressing comes from playing with proportion. G…",
@@ -695,16 +628,6 @@
    "published": "2026-11-04T06:56:42+00:00"
   },
   {
-   "title": "Why growth and specialization matter more than ever in private equity",
-   "link": "https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity",
-   "summary": "Creating value in private equity increasingly depends on transforming businesses, growing them profitably, and building operational excellence, as Providence Equity Partners has learned firsthand.",
-   "source": "McKinsey & Company",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-11-04T00:00:00+00:00"
-  },
-  {
    "title": "The AI-enabled risk function of the future",
    "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future",
    "summary": "AI is reshaping how banks manage risk. The next challenge is scaling AI capabilities through a redesigned risk operating model.",
@@ -715,66 +638,14 @@
    "published": "2026-11-04T00:00:00+00:00"
   },
   {
-   "title": "Rethinking growth with AI: A conversation with Slack CMO Ryan Gavin",
-   "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rethinking-growth-with-ai-a-conversation-with-slack-cmo-ryan-gavin",
-   "summary": "At Cannes Lions 2026, Slack CMO Ryan Gavin and McKinsey Partner Jeff Jacobs discussed how AI can turn productivity gains into a lever for growth.",
+   "title": "Why growth and specialization matter more than ever in private equity",
+   "link": "https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity",
+   "summary": "Creating value in private equity increasingly depends on transforming businesses, growing them profitably, and building operational excellence, as Providence Equity Partners has learned firsthand.",
    "source": "McKinsey & Company",
    "regions": [
     "Global"
    ],
    "published": "2026-11-04T00:00:00+00:00"
-  },
-  {
-   "title": "From science fiction to reality: The next phase of shared autonomous mobility",
-   "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/from-science-fiction-to-reality-the-next-phase-of-shared-autonomous-mobility",
-   "summary": "As shared autonomous vehicles expand into cities worldwide, operators are evaluating how to scale them profitably in multiple urban areas.",
-   "source": "McKinsey & Company",
-   "regions": [
-    "Global"
-   ],
-   "published": "2026-11-04T00:00:00+00:00"
-  },
-  {
-   "title": "Trident Approves Rs 4,650-Crore Investment for Yarn, Sheeting and Paper Expansion",
-   "link": "https://apparelresources.com/business-news/manufacturing/trident-approves-rs-4650-crore-investment-yarn-sheeting-paper-expansion/",
-   "summary": "Trident Ltd. has approved a Rs 4,650-crore investment programme to expand its manufacturing operations across yarn, sheeting, paper and renewable energy. Approved by the company’s board, the projects will be implemented in phases, with completion timelines extending from Decembe…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-11-03T13:36:12+00:00"
-  },
-  {
-   "title": "India, EU Hold Brussels Meetings to Discuss FTA Implementation and Textile Trade",
-   "link": "https://apparelresources.com/business-news/trade-business-news/india-eu-hold-brussels-meetings-to-discuss-fta-implementation-and-textile-trade/",
-   "summary": "India and the European Union (EU) have discussed preparations for implementing their Free Trade Agreement (FTA), with a focus on improving market access, facilitating trade and strengthening supply chain cooperation. Commerce Secretary Rajesh Agrawal held meetings with senior Eu…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "Europe",
-    "India"
-   ],
-   "published": "2026-11-03T11:29:03+00:00"
-  },
-  {
-   "title": "Arvind Fashions Q2 FY27 Profit Rises 19.4% to Rs 67.6 Crore; Revenue Up 10%",
-   "link": "https://apparelresources.com/business-news/manufacturing/arvind-fashions-q2-fy27-profit-rises-19-4-rs-67-6-crore-revenue-10/",
-   "summary": "Arvind Fashions Ltd (AFL) reported a 19.44% year-on-year increase in consolidated net profit to Rs 67.62 crore (approximately US $7.6 million) for the second quarter of FY27, compared with Rs 56.61 crore in the corresponding quarter last year. Revenue from operations increased 9…",
-   "source": "Apparel Resources India",
-   "regions": [
-    "India"
-   ],
-   "published": "2026-11-03T11:12:05+00:00"
-  },
-  {
-   "title": "The 1 percent wake-up call for life insurers",
-   "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-1-percent-wake-up-call-for-life-insurers",
-   "summary": "Germany’s pension reform is the most explicit expression of an accelerating trend. Across Europe, the moat around fee-based accumulation is disappearing. Life insurers have a choice to make.",
-   "source": "McKinsey & Company",
-   "regions": [
-    "Europe",
-    "Global"
-   ],
-   "published": "2026-11-03T00:00:00+00:00"
   }
  ]
 }
